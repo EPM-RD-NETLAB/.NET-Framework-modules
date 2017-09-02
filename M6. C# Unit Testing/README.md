@@ -6,7 +6,8 @@
 
 ## Books & Useful References 
 - [The Art of Unit Testing: with examples in C# Second Edition Edition. Roy Osherove](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-1/1).
-   - *Chapter 10:* Methods
+   - *Chapter 1.* The basics of unit testing
+   - *Chapter 1.* The basics of unit testing
 - [C# Unit Test Tutorial](http://www.rhyous.com/programming-development/csharp-unit-test-tutorial/)
 - [Unit Test Your Code](https://msdn.microsoft.com/en-us/library/dd264975.aspx)
 - [NUnit](http://www.nunit.org/)
