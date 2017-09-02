@@ -1,12 +1,12 @@
 ### Material Content: 
-- *Declaration and call methods.
-- Naming conventions.
-- Overload Resolution.
-- Optional parameters and named arguments.
-- Passing arguments by value and by reference (ref, out).
-- Static methods, static constructors.
-- Extension methods.
-- Operator Overloading.*
+- *Declaration and call methods.*
+- *Naming conventions.*
+- *Overload Resolution.*
+- *Optional parameters and named arguments.*
+- *Passing arguments by value and by reference (ref, out).*
+- *Static methods, static constructors.*
+- *Extension methods.*
+- *Operator Overloading.*
 
 ### Books & Useful References: 
 1. [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
