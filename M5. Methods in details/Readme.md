@@ -8,7 +8,7 @@
  - *Chapter 12:* Caching Content 
 
 ### Samples: 
-- https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details/Samples/LINQPad%205
+- [LINQPad Samples](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details/Samples/LINQPad%205}
 
 ### Presentation: 
 [Methods in details.pptx](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M5.%20Methods%20in%20details/Methods%20in%20details.pptx)
