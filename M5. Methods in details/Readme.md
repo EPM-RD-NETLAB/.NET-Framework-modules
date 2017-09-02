@@ -14,9 +14,11 @@
 - [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
   - *Chapter 8:* Methods
 
-### Presentation. [Methods in details.pptx](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M5.%20Methods%20in%20details/Methods%20in%20details.pptx)
+### Presentation. 
+[Methods in details.pptx](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M5.%20Methods%20in%20details/Methods%20in%20details.pptx)
 
-### Samples. [LINQPad Samples](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details/Samples/LINQPad%205)
+### Samples. 
+[LINQPad Samples](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details/Samples/LINQPad%205)
 
 ### Tasks. 
 **Objective:** *to strengthen extension methods; study the format of IEEE 754*
