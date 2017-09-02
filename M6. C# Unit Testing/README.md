@@ -5,10 +5,10 @@
 - *NUnit Framework.*
 
 ## Books & Useful References 
-- [C# 4.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/8513970-c-4-0-unleashed)
+- [The Art of Unit Testing: with examples in C# Second Edition Edition. Roy Osherove](http://www.amazon.com/The-Art-Unit-Testing-examples/dp/1617290890/ref=as_sl_pc_ss_til?tag=sffrmw-20&linkCode=w01&linkId=3LMDHNZXBURY3MPG&creativeASIN=1617290890).
    - *Chapter 10:* Methods
-- [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
-  - *Chapter 8:* Methods
+- [C# Unit Test Tutorial](http://www.rhyous.com/programming-development/csharp-unit-test-tutorial/)
+- [Unit Test Your Code](https://msdn.microsoft.com/en-us/library/dd264975.aspx)
 
 ## Presentation. 
 [Methods in details.pptx](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M5.%20Methods%20in%20details/Methods%20in%20details.pptx)
