@@ -1,6 +1,6 @@
 ### Material Content: 
-- Declaration and call methods.
-- Naming conventions.
+- *Declaration and call methods.*
+- *Naming conventions.*
 - Overload Resolution.
 - Optional parameters and named arguments.
 - Passing arguments by value and by reference (ref, out).
