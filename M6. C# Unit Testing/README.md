@@ -1,5 +1,22 @@
-# .NET-Framework-modules
-NET Lab. C# training modules
-PPT, Code samples.
-C# and .NET basics
+## Material Content 
+- *Unit testing intro.*
+- *C# Unit Test Best Practices and Guidelines.*
+- *MS Unit Testing Framework.*
+- *NUnit Framework.*
 
+## Books & Useful References 
+- [C# 4.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/8513970-c-4-0-unleashed)
+   - *Chapter 10:* Methods
+- [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
+  - *Chapter 8:* Methods
+
+## Presentation. 
+[Methods in details.pptx](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M5.%20Methods%20in%20details/Methods%20in%20details.pptx)
+
+## Samples. 
+[LINQPad Samples](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details/Samples/LINQPad%205)
+
+## Tasks. 
+**Objective:** *to strengthen extension methods; study the format of IEEE 754*
+  - Implement the extension method to obtain a binary representation of a real double-precision number in IEEE 754 format.
+  - Develop a class that allows performing GCD computations using Euclid's algorithm for two, three, etc. of integers. Class methods in addition to GCD computation should determine the time value required for the calculation (consider three possible options for returning more than one value from the method).Add to the developed class methods that implement the Stein algorithm (Euclid's binary algorithm) to calculate GCD of two, three, etc. of integers. The methods should also determine the time value required to perform the calculations.
