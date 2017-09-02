@@ -21,5 +21,7 @@
 [LINQPad Samples](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details/Samples/LINQPad%205)
 
 ### Tasks: 
+#### Objective: to strengthen extension methods; study the format of IEEE 754
+
   - 
   - 
