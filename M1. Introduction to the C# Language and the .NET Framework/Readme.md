@@ -45,7 +45,7 @@
 - [Introduction to the C# Language and the .NET Framework (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M1.%20Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework/Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework.pptx)
 
 ## Samples 
-[Visual Studio 2015]()
+[Visual Studio 2015](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M1.%20Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework/Samples/VS)
 
 ## Tasks  
 **Objective:** *create a multi-file assembly using the command line, build with a strong name using the sn.exe utility, and add and remove assemblies from GAC using the gacutil.exe utility, use ILDASM tools, JetBrains dotPeek to analyze the contents of assemblies.*
