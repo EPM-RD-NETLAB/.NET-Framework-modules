@@ -35,7 +35,8 @@
 - [Автоматизированное тестирование веб-приложения (MS Unit Testing Framework + Selenium WebDriver C#). Часть 4: Наконец-то пишем тесты (RU)](http://habrahabr.ru/post/181558/)
 
 ## Presentation 
-[C# Unit Testing.pptx (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M6.%20C%23%20Unit%20Testing/C%23%20Unit%20Testing.pptx)
+- [C# Unit Testing.pptx (ENG)]()
+- [C# Unit Testing.pptx (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M6.%20C%23%20Unit%20Testing/C%23%20Unit%20Testing.pptx)
 
 ## Samples 
 [Visual Studio 2015 Samples](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M6.%20C%23%20Unit%20Testing/Samples/VS%202015)
