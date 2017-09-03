@@ -15,8 +15,8 @@
   - *Chapter 8:* Methods
 
 ## Presentation 
-[Methods in details.pptx (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M5.%20Methods%20in%20details/Methods%20in%20details.pptx)
-[Methods in details.pptx (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M5.%20Methods%20in%20details/Methods%20in%20details.pptx)
+- [Methods in details.pptx (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M5.%20Methods%20in%20details/Methods%20in%20details.pptx)
+- [Methods in details.pptx (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M5.%20Methods%20in%20details/Methods%20in%20details.pptx)
 
 ## Samples 
 [LINQPad Samples](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details/Samples/LINQPad%205)
