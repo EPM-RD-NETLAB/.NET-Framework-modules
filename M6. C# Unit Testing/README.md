@@ -42,5 +42,5 @@
 
 ## Tasks  
 **Objective:** *to study unit testing*
-  - Develop unit tests (NUnit and (or) MS Unit Test) for tasks 1 and 2 [Module 5]()
+  - Develop unit tests (NUnit and (or) MS Unit Test) for Tasks 1, 2 [Module 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details)
 
