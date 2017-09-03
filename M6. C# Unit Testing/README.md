@@ -34,12 +34,13 @@
 - [Автоматизированное тестирование веб-приложения (MS Unit Testing Framework + Selenium WebDriver C#). Часть 3: WebPages — описываем страницы (RU)](http://habrahabr.ru/post/180705/)
 - [Автоматизированное тестирование веб-приложения (MS Unit Testing Framework + Selenium WebDriver C#). Часть 4: Наконец-то пишем тесты (RU)](http://habrahabr.ru/post/181558/)
 
-## Presentation. 
+## Presentation 
 [C# Unit Testing.pptx]()
 
-## Samples. 
+## Samples 
 [Visual Studio 2015 Samples]()
 
-## Tasks. 
+## Tasks  
 **Objective:** *to study unit testing*
-  - 
+  - Develop unit tests (NUnit and (or) MS Unit Test) for tasks 1 and 2 [Module 5]()
+
