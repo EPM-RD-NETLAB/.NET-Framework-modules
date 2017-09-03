@@ -18,6 +18,13 @@
 - [Naming Conventions (ENG)](http://www.c-sharpcorner.com/UploadFile/8a67c0/C-Sharp-coding-standards-and-naming-conventions/)
 - [Groupings by region (ENG)](https://www.dotnetperls.com/region)
 - [Using xml comments (ENG)]( https://sandcastle.codeplex.com/)
+- [.NET Compiler Platform (ENG)](https://en.wikipedia.org/wiki/.NET_Compiler_Platform)
+- [.NET Compiler Platform ("Roslyn") Overview (ENG)](https://github.com/dotnet/roslyn/wiki/Roslyn%20Overview)
+- [.NET Compiler Platform ("Roslyn") (ENG](https://roslyn.codeplex.com/SourceControl/latest#Src/Samples/CSharp/FormatSolution/TestSolutionForCSharp/CSharpProject/CSharpClass.cs)
+- [Вышел Microsoft "Roslyn" CTP](http://habrahabr.ru/post/130884/)
+- [Roslyn in a Nutshell](http://developer.telerik.com/featured/roslyn-nutshell/)
+- [Компилятор Roslyn](http://itvdn.com/ru/blog/article/compiler-roslyn)
+- [ Roslyn on Github: C# 6.0 Features](https://github.com/dotnet/roslyn)
 
 ## Presentation 
 - [TODO (ENG)]()
