@@ -19,4 +19,4 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
  - *Module 3:* [Basic Coding in C#]()
  - *Module 4:* [Types]()
  - *Module 5:* [Methods in details](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details)
- - *Module 6:* [C# Unit Testing]()
+ - *Module 6:* [C# Unit Testing](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M6.%20C%23%20Unit%20Testing)
