@@ -19,7 +19,7 @@
    - *Chapter 1.* The CLR’s Execution Model
    - *Chapter 2.* Building, Packaging, Deploying, and Administering Applications and Types
    - *Chapter 3.* Shared Assemblies and Strongly Named Assemblies
-- [C# 4.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
+- [C# 4.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/8513970-c-4-0-unleashed)
    - *Chapter 25.* Assemblies and Application Domains
 - [C# 5.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920023951.do)
    - *Chapter 1.* Introducing C# and the .NET Framework
