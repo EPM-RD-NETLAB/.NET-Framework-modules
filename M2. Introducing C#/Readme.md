@@ -6,7 +6,7 @@
 - *Platform Support.*
 - *C#, CLR and ECMA-Standarts.*
 - *Managed Code and the CLR.*
-- *Visual Studio. Project types in VS. Anatomy of a Simple Program. Adding a Project to an Existing Solution. Referencing One Project from Another. Namespaces. Program Entry Point. *
+- *Visual Studio. Project types in VS. Anatomy of a Simple Program. Adding a Project to an Existing Solution. Referencing One Project from Another. Namespaces. Program Entry Point.*
 
 ## Books & Useful References 
 - [TODO]().
