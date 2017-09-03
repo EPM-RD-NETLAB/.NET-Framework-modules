@@ -42,7 +42,7 @@
 
 ## Presentation 
 - [Introduction to the C# Language and the .NET Framework (ENG)]()
-- [Introduction to the C# Language and the .NET Framework (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M1.%20Introducing%20.NET%20Framework/Introducing%20the%20.NET%20Platform.pptx)
+- [Introduction to the C# Language and the .NET Framework (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M1.%20Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework/Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework.pptx)
 
 ## Samples 
 [Visual Studio 2015]()
