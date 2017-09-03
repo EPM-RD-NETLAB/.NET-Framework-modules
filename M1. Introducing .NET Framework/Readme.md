@@ -10,8 +10,8 @@
 - [TODO (ENG)](http://www.rhyous.com/programming-development/csharp-unit-test-tutorial/)
 
 ## Presentation 
-- [TODO (ENG)]()
-- [TODO (RU)]()
+- [Introducing .NET Framework (ENG)]()
+- [Introducing .NET Framework (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M1.%20Introducing%20.NET%20Framework/Introducing%20the%20.NET%20Platform.pptx)
 
 ## Samples 
 [LINQPad]()
