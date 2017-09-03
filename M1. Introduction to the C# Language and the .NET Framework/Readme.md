@@ -13,9 +13,19 @@
 - *Visual Studio. Project types in VS. Anatomy of a Simple Program. Adding a Project to an Existing Solution. Referencing One Project from Another. Namespaces. Program Entry Point.*
 
 ## Books & Useful References 
-- [TODO]().
-   - *Chapter .* TODO
-   - *Chapter .* TODO
+- [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
+  - *Chapter 12.* Assemblies
+- [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
+   - *Chapter 1.* The CLR’s Execution Model
+   - *Chapter 2.* Building, Packaging, Deploying, and Administering Applications and Types
+   - *Chapter 3.* Shared Assemblies and Strongly Named Assemblies
+- [C# 4.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
+   - *Chapter 25.* Assemblies and Application Domains
+- [C# 5.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920023951.do)
+   - *Chapter 1.* Introducing C# and the .NET Framework
+   - *Chapter 18.* Assemblies
+   - *Chapter 27.* The Roslyn Compiler.
+   
 - [Naming Conventions (ENG)](http://www.dofactory.com/reference/csharp-coding-standards)
 - [Naming Conventions (ENG)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 - [Naming Conventions (ENG)](https://msdn.microsoft.com/en-us/library/ms229043(v=vs.110).aspx)
