@@ -9,7 +9,7 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
 - [C# in Depth. Jon Skeet. Manning Publications Co. 2013](https://www.manning.com/books/c-sharp-in-depth-third-edition) or [C# in Depth](https://livebook.manning.com/#!/book/c-sharp-in-depth-third-edition/chapter-1/)
 - [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
 - [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
-- [Effective C# (Covers C# 6.0): 50 Specific Ways to Improve Your C# (Effective Software Development). Bill Wagner. Addison-Wesley Professional. 2016](https://www.goodreads.com/book/show/30009056-effective-c-covers-c-6-0)
+- [Effective C# (Covers C# 6.0): 50 Specific Ways to Improve Your C# (Effective Software Development). Bill Wagner. Addison-Wesley. 2016](https://www.goodreads.com/book/show/30009056-effective-c-covers-c-6-0)
 - [Pro .NET Performance: Optimize Your C# Applications. Sasha Goldshtein.](http://www.apress.com/us/book/9781430244585)
 
 ## Modules: 
