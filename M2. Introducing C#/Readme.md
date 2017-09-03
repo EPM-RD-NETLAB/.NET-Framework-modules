@@ -27,5 +27,5 @@
 [LINQPad]()
 
 ## Tasks  
-**Objective:** *TODO*
-  - TODO
+**Objective:** *create a multi-file assembly using the command line, build with a strong name using the sn.exe utility, and add and remove assemblies from GAC using the gacutil.exe utility, use ILDASM tools, JetBrains dotPeek to analyze the contents of assemblies.*
+1. Create a multi-file assembly. Assign an assembly to the string name and place it in the GAC. Analyze the resulting assembly using ILDASM, JetBrains dotPeek.
