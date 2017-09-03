@@ -14,9 +14,8 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
 
 ## Modules: 
 
- - *Module 1:* [Introducing .NET Framework](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M1.%20Introducing%20.NET%20Framework)
- - *Module 2:* [Introducing C#](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Introducing%20C%23)
- - *Module 3:* [Basic Coding in C#](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Basic%20Coding%20in%20C%23)
- - *Module 4:* [Types](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Types)
- - *Module 5:* [Methods in details](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details)
- - *Module 6:* [C# Unit Testing](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M6.%20C%23%20Unit%20Testing)
+ - *Module 1:* [Introduction to the C# Language and the .NET Framework](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M1.%20Introducing%20.NET%20Framework)
+ - *Module 2:* [Basic Coding in C#](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Basic%20Coding%20in%20C%23)
+ - *Module 3:* [Types](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Types)
+ - *Module 4:* [Methods in details](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details)
+ - *Module 5:* [C# Unit Testing](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M6.%20C%23%20Unit%20Testing)
