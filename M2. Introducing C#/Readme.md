@@ -1,14 +1,31 @@
+## Material Content 
+- *C#’s Defining Features.*
+- *Object Orientation.*
+- *Type Safety.*
+- *Memory Management.*
+- *Platform Support.*
+- *C#, CLR and ECMA-Standarts.*
+- *Managed Code and the CLR.*
+- *Visual Studio. Project types in VS. Anatomy of a Simple Program. Adding a Project to an Existing Solution. Referencing One Project from Another. Namespaces. Program Entry Point. *
 
-https://github.com/AnzhelikaKravchuk/.NET-Training/wiki/What's-new-in-C%23-6.0-&-C%23-7.0
+## Books & Useful References 
+- [TODO]().
+   - *Chapter .* TODO
+   - *Chapter .* TODO
+- [Naming Conventions (ENG)](http://www.dofactory.com/reference/csharp-coding-standards)
+- [Naming Conventions (ENG)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+- [Naming Conventions (ENG)](https://msdn.microsoft.com/en-us/library/ms229043(v=vs.110).aspx)
+- [Naming Conventions (ENG)](http://www.c-sharpcorner.com/UploadFile/8a67c0/C-Sharp-coding-standards-and-naming-conventions/)
+- [Groupings by region (ENG)](https://www.dotnetperls.com/region)
+- [Using xml comments (ENG)]( https://sandcastle.codeplex.com/)
 
-Naming Conventions:
-  http://www.dofactory.com/reference/csharp-coding-standards
-  https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
-  https://msdn.microsoft.com/en-us/library/ms229043(v=vs.110).aspx
-  http://www.c-sharpcorner.com/UploadFile/8a67c0/C-Sharp-coding-standards-and-naming-conventions/
+## Presentation 
+- [TODO (ENG)]()
+- [TODO (RU)]()
 
-Groupings by region:     
-  https://www.dotnetperls.com/region
+## Samples 
+[LINQPad]()
 
-Using xml comments:    
-  https://sandcastle.codeplex.com/
+## Tasks  
+**Objective:** *TODO*
+  - TODO
