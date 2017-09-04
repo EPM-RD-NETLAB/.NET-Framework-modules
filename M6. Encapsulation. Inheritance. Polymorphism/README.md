@@ -28,7 +28,7 @@
 - [Encapsulation. Inheritance. Polymorphism (RU)]()
 
 ## Samples 
-[LINQPad]()
+[LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M6.%20Encapsulation.%20Inheritance.%20Polymorphism/Samples/LINQPad)
 
 ## Tasks  
 **Objective:** *to understand the difference between overload and redefinition,modeling the relationship to can do using the ICloneable and IEquatable interfaces, using dependency injection in the method, correct use of inheritance, writing flexible extensible code, familiarity with the design pattern of the visitor.*
