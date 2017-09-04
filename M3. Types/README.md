@@ -3,13 +3,18 @@
 - *Classes vs Struct. Boxing and Unboxing. Naming conventions.*
 - *Static and instance class.*
 - *Type members  - Fields, Constructors, Methods (Property, Indexers, Operators , Event - preview), Nested types. Enum.*
-- *Partial Types and Methods.
+- *Partial Types and Methods.*
 
 ## Books & Useful References 
-- [TODO]().
-   - *Chapter .* TODO
-   - *Chapter .* TODO
-- [TODO (ENG)](http://www.rhyous.com/programming-development/csharp-unit-test-tutorial/)
+- [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920040323.do)
+   - *Chapter 3.* Creating Types in C# ([Example Code](http://www.albahari.com/nutshell/ch03.aspx))
+- [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/11027638-c-4-0-unleashed)
+   - *Chapter 4.* Language Essentials
+   - *Chapter 5.* Expressions and Operators
+   - *Chapter 6.* A Primer on Types and Objects
+   - *Chapter 7.* Simple Control Flow
+- [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
+   - *Chapter 2.* Basic Coding in C# ([Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch02.zip))
 
 ## Presentation 
 - [Types (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Types/Types.pptx)
