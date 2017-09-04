@@ -25,7 +25,7 @@
 
 ## Presentation 
 - [Encapsulation. Inheritance. Polymorphism (ENG)]()
-- [Encapsulation. Inheritance. Polymorphism (RU)]()
+- [Encapsulation. Inheritance. Polymorphism (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M6.%20Encapsulation.%20Inheritance.%20Polymorphism/Encapsulation.%20Inheritance.%20Polymorphism%20(ru).pptx)
 
 ## Samples 
 [LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M6.%20Encapsulation.%20Inheritance.%20Polymorphism/Samples/LINQPad)
