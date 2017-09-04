@@ -8,14 +8,20 @@
 - *Basic operators.*
 
 ## Books & Useful References 
-- [TODO]().
-   - *Chapter .* TODO
-   - *Chapter .* TODO
-- [Naming conventions](https://github.com/EPM-RD-NETLAB/Coding-guidlines)
+
+- [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/11027638-c-4-0-unleashed)
+   - *Chapter 4.* Language Essentials
+   - *Chapter 5.* Expressions and Operators
+   - *Chapter 6.* A Primer on Types and Objects
+   - *Chapter 7.* Simple Control Flow
+- [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
+   - *Chapter 2.* Basic Coding in C# ([Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch02.zip))
+- [C# 5.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920023951.do)
+   - *Chapter 2.* C# Language Basics
 
 ## Presentation 
 - [TODO (ENG)]()
-- [TODO (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M6.%20C%23%20Unit%20Testing/C%23%20Unit%20Testing.pptx)
+- [TODO (RU)]()
 
 ## Samples 
 [LINQPad 5]()
