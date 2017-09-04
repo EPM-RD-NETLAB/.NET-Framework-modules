@@ -18,7 +18,7 @@
 
 ## Presentation 
 - [Types (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Types/Types.pptx)
-- [Types (RU)] (*in progress*)
+- [Types (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Types/Types%20(RU).pptx)
 
 ## Samples 
 [LINQPad]()
