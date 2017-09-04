@@ -21,7 +21,7 @@
    - *Chapter 2.* C# Language Basics ([Example Code](http://www.albahari.com/nutshell/ch02.aspx))
 
 ## Presentation 
-- [Basic Coding in C# (ENG)(in progress)]()
+- [Basic Coding in C# (ENG) (**in progress**)]()
 - [Basic Coding in C# (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M2.%20Basic%20Coding%20in%20C%23/Basic%20Coding%20in%20C%23.pptx)
 
 ## Samples 
