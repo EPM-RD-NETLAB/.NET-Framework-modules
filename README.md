@@ -1,4 +1,4 @@
-## ASP.NET.MVC
+## .NET-Framework-modules
 
 This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPING ASP.NET MVC WEB APPLICATIONS** (C# and .NET Framework Basics part) by .NET Lab.
 
