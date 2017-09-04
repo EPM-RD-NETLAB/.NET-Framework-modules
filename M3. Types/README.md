@@ -11,7 +11,7 @@
 - [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/11027638-c-4-0-unleashed)
    - *Chapter 9.* Introducing Types
 - [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
-   - *Chapter 3.* Basic Coding in C# ([Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch02.zip))
+   - *Chapter 3.* Types ([Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch03.zip))
 - [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
    - *Chapter 4.* Type Fundamentals
    - *Chapter 5.* Primitive, Reference, and Value Types
