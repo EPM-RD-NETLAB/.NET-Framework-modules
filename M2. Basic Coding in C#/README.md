@@ -28,7 +28,7 @@
 [LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23/Samples/LINQPad%205)
 
 ## Tasks  
-**Objective.** *First introduction to Array and String types; Implementation of search and sort algorithms.*
+**Objective.** *Introduction to Array and String types; Implementation of search and sort algorithms.*
   1. Two integer signed numbers and two positions of bits i and j (i <j) are given. Implement an algorithm for inserting one number into another so that the second number occupies the position from bit j to bit i (bits are numbered from right to left).
   2. Implement a recursive algorithm for finding the maximum element in unsorted array.
   3. Given an array of integers. Find in the array and return an index n for which the sum of the elements to the left of it is equal to the sum of the elements on the right. If such an index does not return null (-1).
