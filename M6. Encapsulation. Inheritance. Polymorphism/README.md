@@ -12,9 +12,11 @@
 - *Single dispatch and multiple dispatch.*
 
 ## Books & Useful References 
-- [The Art of Unit Testing: with examples in C# Second Edition Edition. Roy Osherove](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-1/1).
-   - *Chapter 1.* The basics of unit testing
-   - *Chapter 2.* A first unit test
+- [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
+  - *Chapter 6.* Inheritance
+- [C# 4.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
+   - *Chapter 11.* Fields, Properties, and Indexers
+   - *Chapter 14.* Object-Oriented Programming
 - [TODO (ENG)]()
 
 ## Presentation 
