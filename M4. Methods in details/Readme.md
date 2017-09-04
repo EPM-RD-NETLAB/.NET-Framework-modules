@@ -9,10 +9,10 @@
 - *Operator Overloading.*
 
 ## Books & Useful References 
-- [C# 4.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/8513970-c-4-0-unleashed)
-   - *Chapter 10:* Methods
+- [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2013](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
+    - *Chapter 10:* Methods
 - [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
-  - *Chapter 8:* Methods
+    - *Chapter 8:* Methods
 
 ## Presentation 
 - [Methods in details (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M4.%20Methods%20in%20details/Methods%20in%20details.pptx)
