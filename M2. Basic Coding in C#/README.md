@@ -17,11 +17,11 @@
 - [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
    - *Chapter 2.* Basic Coding in C# ([Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch02.zip))
 - [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920040323.do)
-   - *Chapter 2.* C# Language Basics ([Download Example Code](TODO))
+   - *Chapter 2.* C# Language Basics ([Example Code](http://www.albahari.com/nutshell/ch02.aspx))
 
 ## Presentation 
 - [Basic Coding in C# (ENG)]()
-- [Basic Coding in C# (RU)]()
+- [Basic Coding in C# (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M2.%20Basic%20Coding%20in%20C%23/Basic%20Coding%20in%20C%23.pptx)
 
 ## Samples 
 [LINQPad 5]()
