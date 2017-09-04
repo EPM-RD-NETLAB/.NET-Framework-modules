@@ -8,8 +8,7 @@
 - *Basic operators.*
 
 ## Books & Useful References 
-
-- [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/11027638-c-4-0-unleashed)
+- [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2013](https://www.goodreads.com/book/show/11027638-c-4-0-unleashed)
    - *Chapter 4.* Language Essentials
    - *Chapter 5.* Expressions and Operators
    - *Chapter 6.* A Primer on Types and Objects
