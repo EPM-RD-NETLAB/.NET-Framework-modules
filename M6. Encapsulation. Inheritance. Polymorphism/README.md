@@ -6,7 +6,7 @@
 - *Virtual methods.*
 - *System. Object (Equals, GetHashCode, ToString and etc).*
 - *Abstract methods.*
-- *Abstruct classes.*
+- *Abstract classes.*
 - *Interface Inheritance.*
 - *Dynamic.*
 - *Single dispatch and multiple dispatch.*
