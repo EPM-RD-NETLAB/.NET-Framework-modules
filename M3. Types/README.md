@@ -3,6 +3,7 @@
 - *Classes vs Struct. Boxing and Unboxing. Naming conventions.*
 - *Static and instance class.*
 - *Type members  - Fields, Constructors, Methods (Property, Indexers, Operators , Event - preview), Nested types. Enum.*
+- *Partial Types and Methods.
 
 ## Books & Useful References 
 - [TODO]().
