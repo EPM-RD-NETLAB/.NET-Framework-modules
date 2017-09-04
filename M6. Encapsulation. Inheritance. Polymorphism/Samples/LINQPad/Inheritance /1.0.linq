@@ -9,7 +9,6 @@ void Main()
 	m.age = 20;
 	
 	h.Dump();
-	//Process.Start (@"C:\Program Files (x86)\Red Gate\.NET Reflector\Desktop 8.0\Reflector.exe",Assembly.GetExecutingAssembly().Location);
 }
 
 public abstract class Mammal
@@ -20,7 +19,8 @@ public abstract class Mammal
 
 public class Human : Mammal
 {
-	//сценарий коллизии имен полей
+	//field name collision
+	
 	public int age;
 	public static int count;
 	
