@@ -22,7 +22,7 @@
 - [Types (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Types/Types%20(RU).pptx)
 
 ## Samples 
-[LINQPad]()
+[LINQPad](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types/Samples/LINQPad%205)
 
 ## Tasks  
 **Objective:** *Hiding of implementation; design pattern Strategy preview.*
