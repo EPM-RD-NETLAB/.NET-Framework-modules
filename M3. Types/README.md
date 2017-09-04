@@ -9,14 +9,15 @@
 - [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920040323.do)
    - *Chapter 3.* Creating Types in C# ([Example Code](http://www.albahari.com/nutshell/ch03.aspx))
 - [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/11027638-c-4-0-unleashed)
-   - *Chapter 4.* Language Essentials
-   - *Chapter 5.* Expressions and Operators
-   - *Chapter 6.* A Primer on Types and Objects
-   - *Chapter 7.* Simple Control Flow
+   - *Chapter 9.* Introducing Types
 - [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
-   - *Chapter 2.* Basic Coding in C# ([Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch02.zip))
+   - *Chapter 3.* Basic Coding in C# ([Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch02.zip))
+- [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
+   - *Chapter 4.* Type Fundamentals
+   - *Chapter 5.* Primitive, Reference, and Value Types
+   - *Chapter 6.* Type and Member Basics
 
-## Presentation 
+## Presentations 
 - [Types (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Types/Types.pptx)
 - [Types (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Types/Types%20(RU).pptx)
 
