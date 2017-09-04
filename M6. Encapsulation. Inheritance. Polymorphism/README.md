@@ -14,7 +14,7 @@
 ## Books & Useful References 
 - [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
   - *Chapter 6.* Inheritance ([Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch06.zip))
-  - *Chapter 14.* Dynamic Typing ([Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch014.zip))
+  - *Chapter 14.* Dynamic Typing ([Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch14.zip))
 - [C# 4.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
    - *Chapter 11.* Fields, Properties, and Indexers
    - *Chapter 14.* Object-Oriented Programming
