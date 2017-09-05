@@ -25,9 +25,12 @@
 [LINQPad](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types/Samples/LINQPad%205)
 
 ## Tasks  
-**Objective:** *Hiding of implementation; design pattern Strategy preview.*
-  1. Implement an algorithm that allows you to calculate the root of the n-th power (n∈N) from the number (a∈R) by the Newton method with a given accuracy. Check the work of the method (compare the result with the value calculated using the .NET Framework class Math.Pow method).
-  2. Implement the algorithm of "bubble" sorting of non rectangular integer array (sort methods of class System.Array not to use) so that there was an opportunity to order matrix rows:
+**Objective:** 
+- *learning incapsulation;*
+- *design pattern Strategy preview.*
+
+1. Implement an algorithm that allows you to calculate the root of the n-th power (n∈N) from the number (a∈R) by the Newton method with a given accuracy. Check the work of the method (compare the result with the value calculated using the .NET Framework class Math.Pow method).
+2. Implement the algorithm of "bubble" sorting of non rectangular integer array (sort methods of class System.Array not to use) so that there was an opportunity to order matrix rows:
    - in order of increasing (decreasing) sums of elements of rows of the matrix; 
    - in order of increasing (decreasing) the maximum elements of rows of the matrix; 
    - in order of increasing (decreasing) the minimum elements of rows of the matrix; 
