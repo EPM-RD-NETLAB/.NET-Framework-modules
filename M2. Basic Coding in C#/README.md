@@ -32,8 +32,8 @@
 **Objective:** 
 - *introduction to Array and String types;* 
 - *learning searching and sorting algorithms.*
-  1. Two integer signed numbers and two positions of bits i and j (i <j) are given. Implement an algorithm for inserting one number into another so that the second number occupies the position from bit j to bit i (bits are numbered from right to left).
-  2. Implement a recursive algorithm for searching the maximum element in unsorted array.
-  3. Given an array of integers. Find and return an index n for which the sum of the elements to the left of it is equal to the sum of the elements on the right. If such an index does not return null (or -1).
-  4. Two strings include only characters from 'a' to 'z', return a concatenated alphabetized string, excluding duplicate characters.
 
+1. Two integer signed numbers and two positions of bits i and j (i <j) are given. Implement an algorithm for inserting one number into another so that the second number occupies the position from bit j to bit i (bits are numbered from right to left).
+2. Implement a recursive algorithm for searching the maximum element in unsorted array.
+3. Given an array of integers. Find and return an index n for which the sum of the elements to the left of it is equal to the sum of the elements on the right. If such an index does not return null (or -1).
+4. Two strings include only characters from 'a' to 'z', return a concatenated alphabetized string, excluding duplicate characters.
