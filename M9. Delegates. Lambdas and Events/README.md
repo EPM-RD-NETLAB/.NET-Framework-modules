@@ -17,7 +17,7 @@
 - [C# in Depth. Jon Skeet. Manning Publications Co. 2013](https://www.manning.com/books/c-sharp-in-depth-third-edition) or [C# in Depth](https://livebook.manning.com/#!/book/c-sharp-in-depth-third-edition/chapter-1/)
    - *Chapter 5.* Fast-tracked delegates.
 - [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2013](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
-   - *Chapter 17.* Вelegates.
+   - *Chapter 17.* Delegates.
 - [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
    - *Chapter 17.* Delegates.
 
