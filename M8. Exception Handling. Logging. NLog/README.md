@@ -19,12 +19,8 @@
    - *Chapter 5.* Exception Practices.
    
 ## Presentation 
-- Exception Handling. Logging. NLog (ENG)(***in progress***)
+- Exception Handling. Logging. NLog (ENG)(https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M8.%20Exception%20Handling.%20Logging.%20NLog/Exception%20Handling.%20Logging.%20NLog.pptx)
 - [Exception Handling. Logging. NLog (RU)]()
 
 ## Samples 
-[LINQPad]()
-
-## Tasks  
-**Objective:** *TODO*
-  - TODO
+[LINQPad](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M8.%20Exception%20Handling.%20Logging.%20NLog/Samples/VS)
