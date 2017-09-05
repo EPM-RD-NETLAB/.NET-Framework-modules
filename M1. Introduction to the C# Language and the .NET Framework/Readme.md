@@ -40,7 +40,7 @@
 - [Roslyn on Github: C# 6.0 Features (ENG)](https://github.com/dotnet/roslyn)
 
 ## Presentations 
-- Introduction to the C# Language and the .NET Framework (ENG) (*in progress*)
+- Introduction to the C# Language and the .NET Framework (ENG) (***in progress***)
 - [Introduction to the C# Language and the .NET Framework (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M1.%20Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework/Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework.pptx)
 
 ## Samples 
