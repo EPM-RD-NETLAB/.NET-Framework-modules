@@ -19,6 +19,7 @@
    - *Chapter 1.* Introducing C# and the .NET Framework ([Example Code](http://www.albahari.com/nutshell/ch01.aspx))
    - *Chapter 2.* C# Language Basics ([Example Code](http://www.albahari.com/nutshell/ch02.aspx))
 - [Sandcastle - Documentation Compiler for Managed Class Libraries](https://sandcastle.codeplex.com/)
+- [Know Thy Complexities!](http://bigocheatsheet.com/)
 
 ## Presentation 
 - Basic Coding in C# (ENG) (***in progress***)
@@ -28,9 +29,11 @@
 [LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23/Samples/LINQPad%205)
 
 ## Tasks  
-**Objective.** *Introduction to Array and String types; Implementation of search and sort algorithms.*
+**Objective:** 
+- *introduction to Array and String types;* 
+- *learning searching and sorting algorithms.*
   1. Two integer signed numbers and two positions of bits i and j (i <j) are given. Implement an algorithm for inserting one number into another so that the second number occupies the position from bit j to bit i (bits are numbered from right to left).
-  2. Implement a recursive algorithm for finding the maximum element in unsorted array.
-  3. Given an array of integers. Find in the array and return an index n for which the sum of the elements to the left of it is equal to the sum of the elements on the right. If such an index does not return null (-1).
+  2. Implement a recursive algorithm for searching the maximum element in unsorted array.
+  3. Given an array of integers. Find and return an index n for which the sum of the elements to the left of it is equal to the sum of the elements on the right. If such an index does not return null (or -1).
   4. Two strings include only characters from 'a' to 'z', return a concatenated alphabetized string, excluding duplicate characters.
 
