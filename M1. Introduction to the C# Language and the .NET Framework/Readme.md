@@ -47,5 +47,9 @@
 [Visual Studio 2015](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M1.%20Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework/Samples/VS)
 
 ## Tasks  
-**Objective:** *Create a multi-file assembly using the command line, build with a strong name using the sn.exe utility, and add and remove assemblies from GAC using the gacutil.exe utility, use ILDASM tools, JetBrains dotPeek to analyze the contents of assemblies.*
+**Objective:** 
+- *creating a multi-file assembly;* 
+- *building a strong name assembly*;
+- *adding and removing assemblies from GAC*;
+- *using ILDASM, JetBrains dotPeek tools to analyze the contents of assemblies*.
 1. Create a multi-file assembly. Assign an assembly to the strong name and place it in the GAC. Analyze the resulting assembly using ILDASM, JetBrains dotPeek.
