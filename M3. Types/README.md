@@ -16,6 +16,7 @@
    - *Chapter 4.* Type Fundamentals
    - *Chapter 5.* Primitive, Reference, and Value Types
    - *Chapter 6.* Type and Member Basics
+- [Know Thy Complexities!](http://bigocheatsheet.com/)
 
 ## Presentations 
 - [Types (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Types/Types.pptx)
@@ -29,8 +30,8 @@
 - *learning incapsulation;*
 - *design pattern Strategy preview.*
 
-1. Implement an algorithm that allows you to calculate the root of the n-th power (n∈N) from the number (a∈R) by the Newton method with a given accuracy. Check the work of the method (compare the result with the value calculated using the .NET Framework class Math.Pow method).
-2. Implement the algorithm of "bubble" sorting of non rectangular integer array (sort methods of class System.Array not to use) so that there was an opportunity to order matrix rows:
+1. Implement an Newton algorithm for calculate the root of n-degree (n is natural) from the number a (a is real) with a given accuracy. Check the work of the method (compare the result with the value calculated using the .NET Framework class Math.Pow method).
+2. Implement the "Bubble Sort" algorithm of integer array (do not usу methods of class System.Array) so that there was an opportunity to order matrix rows:
    - in order of increasing (decreasing) sums of elements of rows of the matrix; 
    - in order of increasing (decreasing) the maximum elements of rows of the matrix; 
    - in order of increasing (decreasing) the minimum elements of rows of the matrix; 
