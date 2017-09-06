@@ -22,7 +22,7 @@
    - *Chapter 17.* Delegates.
 
 ## Presentation 
-- [Delegates. Lambdas and Events (ENG)]()
+- [Delegates. Lambdas and Events (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M9.%20Delegates.%20Lambdas%20and%20Events/Delegates.%20Lambdas%20and%20Events.pptx)
 - [Delegates. Lambdas and Events (RU)]()
 
 ## Samples 
