@@ -6,7 +6,7 @@
 - *Database First.*
 
 ## Books & Useful References 
-- [Pro .NET Performance: Optimize Your C# Applications. Goldshtein, S., Zurbalev, D., Group, S., Flatow, I. Apress. 2012](http://www.entityframeworktutorial.net/)
+- [Entity Framework Tutorial](http://www.entityframeworktutorial.net/)
 
 ## Presentation 
 - Internal device types in .NET Framework (ENG)(***in progress***)
