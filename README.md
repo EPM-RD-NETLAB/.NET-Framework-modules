@@ -27,4 +27,4 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
  - *Module 11:* [Introduction to Language Integrated Query (LINQ)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M11.%20Introduction%20to%20Language%20Integrated%20Query%20(LINQ))
   - *Module 12:* [Internal device types in .NET Framework. Resource management](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management)
 ### Additional modules 
-
+ - *Module 13:* [Streams and I/O]()
