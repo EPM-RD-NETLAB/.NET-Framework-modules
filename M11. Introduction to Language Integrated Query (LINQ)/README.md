@@ -1,7 +1,10 @@
 ## Material Content 
-- *TODO*
-- *TODO*
-- *TODO*
+- *LINQ-to-objects queries: Fluent Syntax and Query Operators.*
+- *Lambda expressions and Func signatures. Query Expressions. Supporting Query Expressions. Deferred Evaluation. LINQ, Generics, and IQueryable(T).*
+- *Standard LINQ Operators: Filtering, Select, SelectMany, Ordering, Specific Items and Subranges. Set Operations. Joins.*
+- *Local Queries.*
+- *Interpreted Queries (IQueryable preview).*
+- *Combining Interpreted and Local Queries.*
 
 ## Books & Useful References 
 - [TODO](TODO).
