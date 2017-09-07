@@ -29,7 +29,7 @@
 [LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M9.%20Delegates.%20Lambdas%20and%20Events/LINQPadQueries.Delegates)
 
 ## Tasks  
-**Objective:**
+**Objective:** 
 - *understanding delegate usage scenarios;*
 - *understanding the relationship delegates versus interfaces;*
 - *understanding callback functions;*
@@ -37,5 +37,5 @@
 - *understanding difference between events and delegates;*
 - *understanding standard event delegate pattern.*
 
-1. Perform refactoring of class methods (task no. 11) (when refactoring the interface of the class should not change) in order to reduce the re-code (refactoring is possible only when all methods of finding GCDs are in the same class). 
+1. Refactoring of class methods [Task 2 Module 4](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details) (when refactoring the interface of the class should not change) in order to reduce the re-code (refactoring is possible only when all methods of finding GCDs are in the same class). 
 2. Perform refactoring of class methods (task no. 11) (when refactoring the interface of the class should not change) in order to reduce the re-code (refactoring is possible only when all methods of finding GCDs are in the same class).
