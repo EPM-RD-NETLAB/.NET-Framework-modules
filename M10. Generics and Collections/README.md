@@ -27,7 +27,7 @@
 - [Generics and Collections (RU)]()
 
 ## Samples 
-[LINQPad]()
+[LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M10.%20Generics%20and%20Collections/Samples/LINQPad%205)
 
 ## Tasks  
 **Objective:** *TODO*
