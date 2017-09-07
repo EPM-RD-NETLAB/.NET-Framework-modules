@@ -13,7 +13,7 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
 - [Pro .NET Performance: Optimize Your C# Applications. Sasha Goldshtein.](http://www.apress.com/us/book/9781430244585)
 
 ## Modules: 
-
+### Core modules 
  - *Module 1:* [Introduction to the C# Language and the .NET Framework](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M1.%20Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework)
  - *Module 2:* [Basic Coding in C#](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23)
  - *Module 3:* [Types](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types)
@@ -26,3 +26,5 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
  - *Module 10:* [Generics and Collections](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M10.%20Generics%20and%20Collections)
  - *Module 11:* [Introduction to Language Integrated Query (LINQ)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M11.%20Introduction%20to%20Language%20Integrated%20Query%20(LINQ))
   - *Module 12:* [Internal device types in .NET Framework. Resource management](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management)
+### Additional modules 
+
