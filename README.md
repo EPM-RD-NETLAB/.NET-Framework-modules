@@ -12,7 +12,7 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
 - [Effective C# (Covers C# 6.0): 50 Specific Ways to Improve Your C# (Effective Software Development). Bill Wagner. Addison-Wesley. 2016](https://www.goodreads.com/book/show/30009056-effective-c-covers-c-6-0)
 - [Pro .NET Performance: Optimize Your C# Applications. Sasha Goldshtein.](http://www.apress.com/us/book/9781430244585)
 
-## Modules: 
+## Modules 
 ### Core modules 
  - *Module 1:* [Introduction to the C# Language and the .NET Framework](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M1.%20Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework)
  - *Module 2:* [Basic Coding in C#](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23)
