@@ -18,6 +18,7 @@
 - [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2013](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
    - *Chapter 19.* Language Integrated Query Essentials.
    - *Chapter 20.* Language Integrated Query Internals
+- [101 LINQ Samples (ENG)](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
 
 ## Presentation 
 - [Delegates. Lambdas and Events (ENG)]()
