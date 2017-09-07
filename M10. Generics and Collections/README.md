@@ -42,3 +42,4 @@
 1. Implement a BinarySearch generic method (*do not use the type constraints*). Develop unit-tests.
 2. The test file contains some information. Implement an algorithm that allows to determine the frequency of occurrences of words in the text. Develop unit-tests.
 3. Implement a method for the counting of the Fibonacci's numbers of the Fibonacci using the iterator block yield. Develop unit-tests.
+4. Develop a generic class-collection Queue that implements the basic operations for working with the stucture data queue. Implement the capability to iterate by collection by design pattern Iterator. Develop unit-tests.
