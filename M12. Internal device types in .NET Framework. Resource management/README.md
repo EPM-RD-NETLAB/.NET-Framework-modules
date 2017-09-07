@@ -18,6 +18,7 @@
    - *Chapter 20.* Language Integrated Query Internals
 - [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
    - *Chapter 21.* The Managed Heap and Garbage Collection.
+- [Внутреннее устройство .NET Framework — как CLR создает объекты периода выполнения (RU)](https://msdn.microsoft.com/ru-ru/library/dd335945.aspx?f=255&MSPPError=-2147217396)
 
 ## Presentation 
 - Internal device types in .NET Framework (ENG)(***in progress***)
