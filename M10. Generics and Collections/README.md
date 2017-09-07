@@ -43,3 +43,9 @@
 2. The test file contains some information. Implement an algorithm that allows to determine the frequency of occurrences of words in the text. Develop unit-tests.
 3. Implement a method for the counting of the Fibonacci's numbers of the Fibonacci using the iterator block yield. Develop unit-tests.
 4. Develop a generic class-collection Queue that implements the basic operations for working with the stucture data queue. Implement the capability to iterate by collection by design pattern Iterator. Develop unit-tests.
+5. Develop a generic class-collection Stack that implements the basic operations for working with the stucture data stack. Implement the capability to iterate by collection by design pattern Iterator. Develop unit-tests.
+6. Develop a generic class-collection Set that implements the basic operations for working with the stucture data set with the reference types elements. Implement the capability to iterate by collection by block iterator yield. Develop unit-tests.
+7. Develop a generic class-collection BinarySearchTree that implements the basic operations for working with the stucture data binary search tree. Provide an opportunity of using a plugin interface to implement the order relation. Implement three ways of traversing the tree: direct (preorder), transverse (inorder), reverse (postorder) (use the block iterator yield). Develop unit-tests. Use for the testiong the following types:
+   - System.String (use default comparison and plug-in comparator);
+   - the custom class Book, for objects of which order relations are implemented (use the default comparison and plug-in comparator);
+   - the custom structure Point for objects that do not have an order relation (use a plug-in comparator).
