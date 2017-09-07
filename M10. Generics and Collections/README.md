@@ -40,4 +40,5 @@
 - *understanding block iterator yield.*
 
 1. Implement a BinarySearch generic method (*do not use the type constraints*). Develop unit-tests.
-2. 
+2. The test file contains some information. Implement an algorithm that allows to determine the frequency of occurrences of words in the text. Develop unit-tests.
+3. Implement a method for the counting of the Fibonacci's numbers of the Fibonacci using the iterator block yield. Develop unit-tests.
