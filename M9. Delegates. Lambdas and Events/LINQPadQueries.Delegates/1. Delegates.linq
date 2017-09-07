@@ -54,8 +54,6 @@ static void Main()
 //	Console.WriteLine(result);
 //	result = t(4);
 //	Console.WriteLine(result);
-	//Process.Start(@"C:\Program Files (x86)\Red Gate\.NET Reflector\Desktop 8.0\Reflector.exe",
-	//	Assembly.GetExecutingAssembly().Location);
 }
 
 static void Do(Transformer del)
