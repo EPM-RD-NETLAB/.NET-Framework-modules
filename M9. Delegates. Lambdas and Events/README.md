@@ -33,7 +33,7 @@
 - *understanding delegate usage scenarios;*
 - *understanding the relationship delegates versus interfaces;*
 - *understanding callback functions;*
-- *design pattern Observer preview;*
+- *study design pattern Observer;*
 - *understanding difference between events and delegates;*
 - *understanding DRY (Don’t Repeat Yourself), SoC (Separation of Concerns principles), Low Coupling principles;*
 - *writing agile extensible testable code;*
