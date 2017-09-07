@@ -26,7 +26,7 @@
 - [Delegates. Lambdas and Events (RU)]()
 
 ## Samples 
-[LINQPad]()
+[LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M9.%20Delegates.%20Lambdas%20and%20Events/LINQPadQueries.Delegates)
 
 ## Tasks  
 **Objective:** *TODO*
