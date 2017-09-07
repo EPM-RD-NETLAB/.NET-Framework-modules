@@ -2,7 +2,7 @@
 - *Value and Reference Types.*
 - *Classes vs Struct. Boxing and Unboxing. Naming conventions.*
 - *Static and instance class.*
-- *Type members  - Fields, Constructors, Methods (Property, Indexers, Operators , Event - preview), Nested types. Enum.*
+- *Type members - Fields, Constructors, Methods (Property, Indexers, Operators , Event - preview), Nested types. Enum.*
 - *Partial Types and Methods.*
 
 ## Books & Useful References 
@@ -27,7 +27,7 @@
 
 ## Tasks  
 **Objective:** 
-- *understuding incapsulation;*
+- *understanding incapsulation;*
 - *study design pattern Strategy.*
 
 1. Implement an Newton algorithm for calculate the root of n-degree (n is natural) from the number a (a is real) with a given accuracy. Check the work of the method (compare the result with the value calculated using the .NET Framework class Math.Pow method).
