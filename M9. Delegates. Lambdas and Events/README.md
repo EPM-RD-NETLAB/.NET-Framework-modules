@@ -36,4 +36,6 @@
 - *design pattern Observer preview;*
 - *understanding difference between events and delegates;*
 - *understanding standard event delegate pattern.*
-  - Perform refactoring of class methods (task no. 11) (when refactoring the interface of the class should not change) in order to reduce the re-code (refactoring is possible only when all methods of finding GCDs are in the same class).
+
+1. Perform refactoring of class methods (task no. 11) (when refactoring the interface of the class should not change) in order to reduce the re-code (refactoring is possible only when all methods of finding GCDs are in the same class). 
+2. Perform refactoring of class methods (task no. 11) (when refactoring the interface of the class should not change) in order to reduce the re-code (refactoring is possible only when all methods of finding GCDs are in the same class).
