@@ -6,14 +6,13 @@
 - *IDisposable, Dispose, and Close. Рattern Dispose.*
 
 ## Books & Useful References 
-- [TODO](TODO).
-   - *Chapter #.* TODO
-   - *Chapter #.* TODO
-- [TODOl (ENG)]()
+- [Pro .NET Performance: Optimize Your C# Applications. Sasha Goldshtein.](http://www.apress.com/us/book/9781430244585)
+   - *Chapter 3.* Type Internals.
+   - *Chapter 4.* Garbage Collection.
 
 ## Presentation 
-- [Delegates. Lambdas and Events (ENG)]()
-- [Delegates. Lambdas and Events (RU)]()
+- Internal device types in .NET Framework. Resource management (ENG)(***in progress***)
+- [Internal device types in .NET Framework. Resource management (RU)]()
 
 ## Samples 
 [LINQPad]()
