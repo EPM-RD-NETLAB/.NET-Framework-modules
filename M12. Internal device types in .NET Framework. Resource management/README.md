@@ -27,7 +27,8 @@
 - [Resource management (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management/Resource%20management.pptx)
 
 ## Samples 
-[LINQPad]()
+[LINQPad](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management/Samples/LINQPad%205/Resource%20management)
+[Visual Studio 2015](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management/Samples/VS15)
 
 ## Tasks  
 **Objective:** *TODO*
