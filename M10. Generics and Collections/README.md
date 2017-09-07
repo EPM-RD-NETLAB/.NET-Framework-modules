@@ -24,7 +24,7 @@
 - [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
    - *Chapter 12.* Generics.
 - [Pro .NET Performance: Optimize Your C# Applications. Sasha Goldshtein.](http://www.apress.com/us/book/9781430244585)
-   - *Chapter 12.* Collections and Generics
+   - *Chapter 5.* Collections and Generics
    
 ## Presentation 
 - Generics and Collections (ENG)(***in progress***)
