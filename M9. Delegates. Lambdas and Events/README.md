@@ -38,4 +38,4 @@
 - *understanding standard event delegate pattern.*
 
 1. Refactor of class methods [Task 2 Module 4](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details) using delegates (the API's of the class should not change). 
-2. Perform refactoring of class methods (task no. 11) (when refactoring the interface of the class should not change) in order to reduce the re-code (refactoring is possible only when all methods of finding GCDs are in the same class).
+2. Add to the class [Task 2 Module 3](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types) new methods with custom delegete, allowing to sorting both in ascending and descending, depending on comparison criterion of the matrix rows. Develop unit-tests using various comparison criterion of the matrix rows.
