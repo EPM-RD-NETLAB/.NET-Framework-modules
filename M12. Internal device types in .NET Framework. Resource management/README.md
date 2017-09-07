@@ -1,7 +1,9 @@
 ## Material Content 
-- *TODO*
-- *TODO*
-- *TODO*
+- *.NET Framework Internals. WinDbg tool.*
+- *Garbage Collection. Optimization techniques.  Events and the Garbage Collector.  Weak References and Events.*
+- *Garbage Collection and Memory Consumption.*
+- *Finalizers.*
+- *IDisposable, Dispose, and Close. Рattern Dispose.*
 
 ## Books & Useful References 
 - [TODO](TODO).
