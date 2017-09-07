@@ -18,8 +18,8 @@
 - [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
    - *Chapter 17.* Delegates.
 ## Presentation 
-- [Delegates. Lambdas and Events (ENG)]()
-- [Delegates. Lambdas and Events (RU)]()
+- Generics and Collections (ENG)(***in progress***)
+- [Generics and Collections (RU)]()
 
 ## Samples 
 [LINQPad]()
