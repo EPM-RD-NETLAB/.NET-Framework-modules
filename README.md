@@ -2,7 +2,7 @@
 
 This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPING ASP.NET MVC WEB APPLICATIONS** (C# and .NET Framework Basics part) by .NET Lab.
 
-## Books: 
+## Books 
 
 - [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
 - [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2015.](http://shop.oreilly.com/product/0636920040323.do)
