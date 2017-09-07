@@ -1,7 +1,7 @@
 ## Material Content 
 - *Generic types.*
 - *Type constraints: reference type,  value type, new(),  type inference and etc.*
-- *Enumeration:  IEnumerable, IEnumerator, IEnumerable`<`T`>` and IEnumerator<T> .*
+- *Enumeration:  IEnumerable, IEnumerator, IEnumerable(T) and IEnumerator(T) .*
 - *IEqualityComparer and EqualityComparer.*
 - *Block iterator yield.*
 - *IStructuralEquatable and IStructuralComparable.*
@@ -34,10 +34,10 @@
 **Objective:** 
 - *understanding generic approach in the development;*
 - *understanding difference between typed and not typed generic types;*
-- *understanding IEnumerable, IEnumerator, IEnumerable`<T`> and IEnumerator<T> interfaces;*
-    - *understanding plugging in equality and order;*
+- *understanding IEnumerable, IEnumerator, IEnumerable(T) and IEnumerator(T) interfaces;*
+- *understanding plugging in equality and order;*
 - *understanding foreach loop;*
-- *understanding block iterator yield;*
+- *understanding block iterator yield.*
 
 1. Implement a BinarySearch generic method (*do not use the type constraints*). Develop unit-tests.
 2. 
