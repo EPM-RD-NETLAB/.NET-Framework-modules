@@ -31,5 +31,6 @@
 - [Visual Studio 2015](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management/Samples/VS15) 
 
 ## Tasks  
-**Objective:** *TODO*
-  - TODO
+**Objective:** 
+- *understanding the internals of .NET types;*
+1. Consider the specificity of the reference and the value types using the SOS Debugging Extension (SOS.dll) of the Windows debugger WinDbg.exe and Disassembly (Visual Studio) in the context of invoking non-virtual and virtual methods inherited from System.Object (overridden and not overridden), as well as interface methods, method tables, structures EEClass, etc.
