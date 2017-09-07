@@ -14,7 +14,7 @@
 - [Test-driven development (ENG)](https://en.wikipedia.org/wiki/Test-driven_development)
 - [Rhino Mocks (ENG)](http://www.hibernatingrhinos.com/oss/rhino-mocks)
 - [FakeItEasy (ENG)](https://github.com/FakeItEasy/FakeItEasy)
-- [Книга «Тестирование программного обеспечения. Базовый курс.](https://svyatoslav.biz/software_testing_book/)
+- [Тестирование программного обеспечения. Базовый курс.](https://svyatoslav.biz/software_testing_book/)
 - [Unit-тестирование в аутсорсинге (RU)](http://merle-amber.blogspot.com.by/2008/09/unit.html)
 - [Блог Александра Кондуфорова. Введение в mock-объекты. Классификация (RU)](http://merle-amber.blogspot.com.by/2008/09/mock.html)
 - [Пошаговое руководство. Создание и запуск модульных тестов для управляемого кода (RU)](https://msdn.microsoft.com/ru-ru/library/ms182532(v=vs.120).aspx)
