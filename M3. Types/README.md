@@ -27,8 +27,8 @@
 
 ## Tasks  
 **Objective:** 
-- *learning incapsulation;*
-- *design pattern Strategy preview.*
+- *understuding incapsulation;*
+- *study design pattern Strategy.*
 
 1. Implement an Newton algorithm for calculate the root of n-degree (n is natural) from the number a (a is real) with a given accuracy. Check the work of the method (compare the result with the value calculated using the .NET Framework class Math.Pow method).
 2. Implement the "Bubble Sort" algorithm of integer array (do not usу methods of class System.Array) so that there was an opportunity to order matrix rows:
