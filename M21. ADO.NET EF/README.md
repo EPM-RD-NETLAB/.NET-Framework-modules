@@ -13,8 +13,8 @@
 - [Entity Framework Model First](https://msdn.microsoft.com/en-us/library/jj205424%28v=vs.113%29.aspx?f=255&MSPPError=-2147217396)
 
 ## Presentation 
-- Internal device types in .NET Framework (ENG)(***in progress***)
-- [Internal device types in .NET Framework (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management/Internal%20device%20types%20in%20.NET%20Framework.pptx)
+-  (ENG)(***in progress***)
+- [ (RU)]()
 
 ## Samples 
 [LINQPad]()
