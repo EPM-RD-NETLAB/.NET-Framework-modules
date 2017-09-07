@@ -20,8 +20,10 @@
    - *Chapter 21.* The Managed Heap and Garbage Collection.
 
 ## Presentation 
-- Internal device types in .NET Framework. Resource management (ENG)(***in progress***)
-- [Internal device types in .NET Framework. Resource management (RU)]()
+- Internal device types in .NET Framework (ENG)(***in progress***)
+- Resource management (ENG)(***in progress***)
+- [Internal device types in .NET Framework (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management/Internal%20device%20types%20in%20.NET%20Framework.pptx)
+- [Resource management (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management/Resource%20management.pptx)
 
 ## Samples 
 [LINQPad]()
