@@ -35,6 +35,8 @@
 - *understanding callback functions;*
 - *design pattern Observer preview;*
 - *understanding difference between events and delegates;*
+- *understanding DRY (Don’t Repeat Yourself), SoC (Separation of Concerns principles), Low Coupling principles;*
+- *writing agile extensible testable code;*
 - *understanding standard event delegate pattern.*
 
 1. Refactor of class methods [Task 2 Module 4](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details) using delegates (the API's of the class should not change). 
