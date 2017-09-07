@@ -7,7 +7,7 @@
 
 ## Books & Useful References 
 - [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920040323.do)
-   - *Chapter 3.* Creating Types in C# ([Example Code](http://www.albahari.com/nutshell/ch03.aspx))
+   - *Chapter 3.* Creating Types in C# ([Code Listings](http://www.albahari.com/nutshell/ch03.aspx))
 - [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2011](https://www.goodreads.com/book/show/11027638-c-4-0-unleashed)
    - *Chapter 9.* Introducing Types
 - [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
