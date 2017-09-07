@@ -1,6 +1,6 @@
 <Query Kind="Program" />
 
-//Aактически реальные делегаты всегда являются наследниками MulticastDelegate!
+//MulticastDelegate!
 delegate void Delegate();
 
 static void Method() { }
