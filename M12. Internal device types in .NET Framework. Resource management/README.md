@@ -6,9 +6,9 @@
 - *IDisposable, Dispose, and Close. Рattern Dispose.*
 
 ## Books & Useful References 
-- [Pro .NET Performance: Optimize Your C# Applications. Sasha Goldshtein.](http://www.apress.com/us/book/9781430244585)
-   - *Chapter 3.* Type Internals.
-   - *Chapter 4.* Garbage Collection.
+- [Pro .NET Performance: Optimize Your C# Applications. Goldshtein, S., Zurbalev, D., Group, S., Flatow, I. Apress. 2012](http://www.apress.com/us/book/9781430244585)
+   - *Chapter 3.* Type Internals.([Download Example Code](https://github.com/Apress/pro-.net-perf/tree/master/Ch03))
+   - *Chapter 4.* Garbage Collection.([Download Example Code](https://github.com/Apress/pro-.net-perf/tree/master/Ch04))
 - [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do) 
    - *Chapter 8.* Basics of Exceptions and Resource Management. ([Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch08.zip)) 
 - [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2015.](http://shop.oreilly.com/product/0636920040323.do)
