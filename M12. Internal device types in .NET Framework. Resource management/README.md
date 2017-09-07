@@ -32,5 +32,5 @@
 
 ## Tasks  
 **Objective:** 
-- *understanding the internals of .NET types;*
+- *understanding the internals of .NET types.*
 1. Consider the specificity of the reference and the value types using the SOS Debugging Extension (SOS.dll) of the Windows debugger WinDbg.exe and Disassembly (Visual Studio) in the context of invoking non-virtual and virtual methods inherited from System.Object (overridden and not overridden), as well as interface methods, method tables, structures EEClass, etc.
