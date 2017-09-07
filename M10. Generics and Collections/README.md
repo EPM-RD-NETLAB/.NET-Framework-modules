@@ -15,6 +15,7 @@
    - *Chapter 5.* Collections. ([Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch05.zip))
 - [C# in Depth. Jon Skeet. Manning Publications Co. 2013](https://www.manning.com/books/c-sharp-in-depth-third-edition) or [C# in Depth](https://livebook.manning.com/#!/book/c-sharp-in-depth-third-edition/chapter-3/)
    - *Chapter 3.* Parameterized typing with generics.
+   - *Appendix B.* Generic collections in .NET.
 - [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2015.](http://shop.oreilly.com/product/0636920040323.do)
    - *Chapter 7.* Collections.([Code Listings](http://www.albahari.com/nutshell/ch07.aspx))
 - [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2013](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
