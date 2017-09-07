@@ -12,7 +12,7 @@
 - [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do) 
    - *Chapter 8.* Basics of Exceptions and Resource Management. [Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch08.zip)
 - [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2015.](http://shop.oreilly.com/product/0636920040323.do)
-   - *Chapter 12.* Disposal and Garbage Collection. ([Code Listings](http://www.albahari.com/nutshell/cs4ch12.aspx))
+   - *Chapter 12.* Disposal and Garbage Collection. [Code Listings](http://www.albahari.com/nutshell/cs4ch12.aspx)
 - [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2013](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
    - *Chapter 19.* Language Integrated Query Essentials.
    - *Chapter 20.* Language Integrated Query Internals
