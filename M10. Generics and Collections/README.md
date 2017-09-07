@@ -1,7 +1,7 @@
 ## Material Content 
 - *Generic types.*
 - *Type constraints: reference type,  value type, new(),  type inference and etc.*
-- *Enumeration:  IEnumerable, IEnumerator, IEnumerable`<T> and IEnumerator<T> .*
+- *Enumeration:  IEnumerable, IEnumerator, IEnumerable`<`T`>` and IEnumerator<T> .*
 - *IEqualityComparer and EqualityComparer.*
 - *Block iterator yield.*
 - *IStructuralEquatable and IStructuralComparable.*
