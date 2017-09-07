@@ -34,7 +34,7 @@
 **Objective:** 
 - *understanding the difference between overload and overriding;*
 - *modeling the relationship "can do" by the ICloneable and IEquatable interfaces;*
-- *using dependency injection in the method techniqueж*
+- *using dependency injection in the method technique;*
 - *correct using of inheritancies;*
 - *writing flexible extensible code;*
 - *design pattern Visitor preview.*
