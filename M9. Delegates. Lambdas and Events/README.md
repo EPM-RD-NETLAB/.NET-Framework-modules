@@ -37,5 +37,5 @@
 - *understanding difference between events and delegates;*
 - *understanding standard event delegate pattern.*
 
-1. Refactoring of class methods [Task 2 Module 4](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details) (when refactoring the interface of the class should not change) in order to reduce the re-code (refactoring is possible only when all methods of finding GCDs are in the same class). 
+1. Refactor of class methods [Task 2 Module 4](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details) using delegates (the API's of the class should not change). 
 2. Perform refactoring of class methods (task no. 11) (when refactoring the interface of the class should not change) in order to reduce the re-code (refactoring is possible only when all methods of finding GCDs are in the same class).
