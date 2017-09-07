@@ -36,7 +36,8 @@
 - *modeling the relationship "can do" by the ICloneable and IEquatable interfaces;*
 - *using dependency injection in the method technique;*
 - *correct using of inheritancies;*
-- *writing flexible extensible code;*
+- *understanding DRY (Don’t Repeat Yourself), SoC (Separation of Concerns principles), Low Coupling principles;*
+- *writing agile extensible testable code;*
 - *design pattern Visitor preview.*
 1. To refactor the algorithm [Task 2 Module 3](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types) (delegates and standard interfaces do not use), allowing to sorting both in ascending and descending, depending on comparison criterion of the matrix rows. Develop unit-tests using varioгs comparison criterion of the matrix rows.
 2. Develop a geometric shapes class hierarchy - Circle, Triangle, Square, Rectangle. Classes should describe the properties of a shape and have methods for calculating the area and perimeter of the shape. (*A task with an emphasis on building an inheritance hierarchy, without unduly detailed implementation*).
