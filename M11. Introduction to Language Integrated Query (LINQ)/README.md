@@ -25,7 +25,7 @@
 - [Introduction to Language Integrated Query (LINQ) (RU)]()
 
 ## Samples 
-[LINQPad 5]()
+[LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M11.%20Introduction%20to%20Language%20Integrated%20Query%20(LINQ)/Samples/LINQPad%205)
 
 ## Tasks  
 **Objective:** *TODO*
