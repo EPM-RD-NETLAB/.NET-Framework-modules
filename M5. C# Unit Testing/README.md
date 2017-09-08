@@ -45,7 +45,8 @@
 - [Code Samples for the book The Art Of Unit Testing 2nd Edition](https://github.com/royosherove/aout2)
 
 ## Tasks  
-**Objective:** *to study unit testing*
+**Objective:** 
+- *study unit testing.*
 - Develop unit tests (NUnit and (or) MS Unit Test) for [Tasks 1-4 Module 2](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23).
 - Develop unit tests (NUnit and (or) MS Unit Test) for [Tasks 1, 4 Module 3](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types).
 -  Develop unit tests (NUnit and (or) MS Unit Test) for [Tasks 1, 2 Module 4](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details).
