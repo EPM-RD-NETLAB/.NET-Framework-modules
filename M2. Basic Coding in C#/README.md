@@ -20,7 +20,7 @@
    - *Chapter 2.* C# Language Basics [Code Listings](http://www.albahari.com/nutshell/ch02.aspx)
 - [Sandcastle - Documentation Compiler for Managed Class Libraries](https://sandcastle.codeplex.com/)
 - [Know Thy Complexities!](http://bigocheatsheet.com/)
-- [StyleCop (StyleCop analyzes C# source code to enforce a set of style and consistency rules.)](https://github.com/StyleCop)
+- [StyleCop](https://github.com/StyleCop)
 
 ## Presentation 
 - Basic Coding in C# (ENG) (***in progress***)
