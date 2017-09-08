@@ -1,20 +1,14 @@
 ## Material Content 
-- *Entity Framework Basics.*
-- *Entity Framework Architecture.*
-- *Entity Framework development approaches Code First.*
-- *Model First.*
-- *Database First.*
+- *Design Patterns.*
+- *SOLID principles.*
 
 ## Books & Useful References 
-- [Entity Framework Tutorial](http://www.entityframeworktutorial.net/)
-- [Entity Framework Database First](https://msdn.microsoft.com/en-us/library/jj206878(v=vs.113).aspx)
-- [Entity Framework Code First to a New Database](https://msdn.microsoft.com/en-us/library/jj193542%28v=vs.113%29.aspx?f=255&MSPPError=-2147217396)
-- [Entity Framework Code First to an Existing Database](https://msdn.microsoft.com/en-us/library/jj200620(v=vs.113).aspx)
-- [Entity Framework Model First](https://msdn.microsoft.com/en-us/library/jj205424%28v=vs.113%29.aspx?f=255&MSPPError=-2147217396)
+- [.NET Design Patterns Tutorial - For Beginners & Professionals.](http://www.dotnettricks.com/learn/designpatterns)
+- [Tutorial: Common Design Patterns in C# 4.0.](https://csharpdesignpatterns.codeplex.com/)
 
 ## Presentation 
--  (ENG)(***in progress***)
-- [ (RU)]()
+- Patterns of enterprise application architecture (ENG)(***in progress***)
+- [Patterns of enterprise application architecture (RU)]()
 
 ## Samples 
 [LINQPad]()
