@@ -22,10 +22,10 @@
 **Objective:** 
 - *learning class System.String and standard formattable and pluggable formattable protocols, as a implementation Stategy Pattern.* 
 
-1. Customer class has three public properties - Name (string), ContactPhone (string) and Revenue (decimal). Implement for the Customer's objects the opportunity of a various string representation. For example, the object with the Name = "Jeffrey Richter", Revenue = 1000000, ContactPhone = "+1 (425) 555-0100" can have the following string representation:
+1. Customer class has three public properties - Name (string), ContactPhone (string) and Revenue (decimal). Implement for the Customer's objects the capability of a various string representation. For example, the object with the Name = "Jeffrey Richter", Revenue = 1000000, ContactPhone = "+1 (425) 555-0100" can have the following string representation:
 - Customer record: Jeffrey Richter, 1,000,000.00, +1 (425) 555-0100
 - Customer record: +1 (425) 555-0100
 - Customer record: Jeffrey Richter, 1,000,000.00
 - Customer record: Jeffrey Richter
 - Customer record: 1000000, etc. 
-Add to Customer class an additional formatting opportunity, that is not provided by the class (Customer class do not change). Develop unit tests.
+Add to Customer class an additional formatting capability, that is not provided by the class (Customer class do not change). Develop unit tests.
