@@ -36,3 +36,4 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
  - *Module 19:* [Attributes]()
  - *Module 20:* [ADO.NET intro]()
  - *Module 21:* [ADO.NET EF](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M21.%20ADO.NET%20EF)
+ 
