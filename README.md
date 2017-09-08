@@ -30,7 +30,7 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
  - *Module 13:* [Streams and I/O]()
  - *Module 14:* [XML Technologies]()
  - *Module 15:* [Serialization]()
- - *Module 16:* [Patterns of enterprise application architecture ]()
+ - *Module 16:* [Patterns of enterprise application architecture ](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M16.%20Patterns%20of%20enterprise%20application%20architecture)
  - *Module 17:* [Multythreading]()
  - *Module 18:* [Asynchronous Functions in C#]()
  - *Module 19:* [Attributes]()
