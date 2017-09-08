@@ -5,9 +5,9 @@
 - *NUnit Framework.*
 
 ## Books & Useful References 
-- [The Art of Unit Testing: with examples in C# Second Edition Edition. Roy Osherove](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-1/1).
+- [The Art of Unit Testing: with examples in C# Second Edition Edition. Roy Osherove.  Manning Publications Co. 2013.](https://www.manning.com/books/the-art-of-unit-testing-second-edition).
    - *Chapter 1.* [The basics of unit testing](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-1/1)
-   - *Chapter 2.* A first unit test
+   - *Chapter 2.* [A first unit test](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-2/)
 - [C# Unit Test Tutorial (ENG)](http://www.rhyous.com/programming-development/csharp-unit-test-tutorial/)
 - [Unit Test Your Code (ENG](https://msdn.microsoft.com/en-us/library/dd264975.aspx)
 - [NUnit (ENG)](http://www.nunit.org/)
