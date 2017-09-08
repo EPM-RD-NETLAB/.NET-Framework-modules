@@ -31,8 +31,8 @@
 
 ## Tasks  
 **Objective:** 
-- *introduction to Array and String types;* 
-- *learning searching and sorting algorithms.*
+- *study to Array and String types;* 
+- *study searching and sorting algorithms.*
 
 1. Two integer signed numbers and two positions of bits i and j (i <j) are given. Implement an algorithm for inserting one number into another so that the second number occupies the position from bit j to bit i (bits are numbered from right to left).
 2. Implement a recursive algorithm for searching the maximum element in unsorted array.
