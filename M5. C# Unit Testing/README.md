@@ -6,7 +6,7 @@
 
 ## Books & Useful References 
 - [The Art of Unit Testing: with examples in C# Second Edition Edition. Roy Osherove](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-1/1).
-   - *Chapter 1.* The basics of unit testing
+   - *Chapter 1.* [The basics of unit testing](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-1/1)
    - *Chapter 2.* A first unit test
 - [C# Unit Test Tutorial (ENG)](http://www.rhyous.com/programming-development/csharp-unit-test-tutorial/)
 - [Unit Test Your Code (ENG](https://msdn.microsoft.com/en-us/library/dd264975.aspx)
@@ -47,5 +47,3 @@
 - Develop unit tests (NUnit and (or) MS Unit Test) for [Tasks 1-4 Module 2](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23).
 - Develop unit tests (NUnit and (or) MS Unit Test) for [Tasks 1, 4 Module 3](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types).
 -  Develop unit tests (NUnit and (or) MS Unit Test) for [Tasks 1, 2 Module 4](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details).
-
-
