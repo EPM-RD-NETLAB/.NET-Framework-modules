@@ -13,7 +13,7 @@
    - *Chapter 14.* Chars, Strings, and Working with Text
 
 ## Presentation 
-- Framework Fundamentals (ENG) (*in progress*)
+- Framework Fundamentals (ENG) (***in progress***)
 
 ## Samples 
 [LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M7.%20Framework%20Fundamentals/Samples/LINQPad)
