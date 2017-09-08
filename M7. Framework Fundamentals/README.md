@@ -23,11 +23,11 @@
 - *study class System.String and standard formattable and pluggable formattable protocols, as a implementation Stategy Pattern.* 
 
 1. Customer class has three public properties - Name (string), ContactPhone (string) and Revenue (decimal). Implement for the Customer's objects the capability of a various string representation. For example, the object with the Name = "Jeffrey Richter", Revenue = 1000000, ContactPhone = "+1 (425) 555-0100" can have the following string representation:
-- Customer record: Jeffrey Richter, 1,000,000.00, +1 (425) 555-0100
-- Customer record: +1 (425) 555-0100
-- Customer record: Jeffrey Richter, 1,000,000.00
-- Customer record: Jeffrey Richter
-- Customer record: 1000000, etc. 
+   - Customer record: Jeffrey Richter, 1,000,000.00, +1 (425) 555-0100
+   - Customer record: +1 (425) 555-0100
+   - Customer record: Jeffrey Richter, 1,000,000.00
+   - Customer record: Jeffrey Richter
+   - Customer record: 1000000, etc. 
 Add to Customer class an additional formatting capability, that is not provided by the class (Customer class do not change). Develop unit tests.
 2. A string is considered to be in title case if each word in the string is either (a) capitalised (that is, only the first letter of the word is in upper case) or (b) considered to be an exception and put entirely into lower case unless it is the first word, which is always capitalised. Write a function that will convert a string into title case, given an optional list of exceptions (minor words). The list of minor words will be given as a string with each word separated by a space. Your function should ignore the case of the minor words string -- it should behave in the same way even if the case of the minor word string is changed.
     - Arguments:
