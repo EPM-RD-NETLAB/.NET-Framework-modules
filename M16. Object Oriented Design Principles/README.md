@@ -10,10 +10,11 @@
 - [SOLID Principles of Object Oriented Design | Pluralsight](https://www.pluralsight.com/courses/principles-oo-design)
 
 ## Presentation 
-- Patterns of enterprise application architecture (ENG)
+- Object Oriented Design Principles (ENG)
+- [Object Oriented Design Principles (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M16.%20Object%20Oriented%20Design%20Principles/Object%20Oriented%20Design%20Principles.pptx)
 
 ## Samples 
-[LINQPad]()
+[LINQPad SOLID](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M16.%20Object%20Oriented%20Design%20Principles/SOLID)
 
 ## Tasks  
 **Objective:** *TODO*
