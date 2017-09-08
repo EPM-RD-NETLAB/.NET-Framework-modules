@@ -33,3 +33,7 @@ Add to Customer class an additional formatting capability, that is not provided 
     - Arguments:
       - First argument (required): the original string to be converted.
       - Second argument (optional): space-delimited list of minor words that must always be lowercase except for the first word in the string.
+    - Example:
+      - TitleCase("a an the of", "a clash of KINGS")   => "A Clash of Kings"
+      - TitleCase("The In", "THE WIND IN THE WILLOWS") => "The Wind in the Willows"
+      - TitleCase("the quick brown fox")               => "The Quick Brown Fox"
