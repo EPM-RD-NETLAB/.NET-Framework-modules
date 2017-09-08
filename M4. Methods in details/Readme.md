@@ -28,3 +28,6 @@
 
 1. Implement a binary representation of a real double-precision number in IEEE 754 format as the extension method. 
 2. Develop a class that allows performing Greatest Common Divisor (GCD) computations using Euclid's algorithm for two, three, etc. of integers. The methods of class should be able to determine the GCD calculation time (consider three possible oportunities for returning more than one value from the method). Add to the class methods that implement the Stein algorithm (Euclid's binary algorithm) to calculate GCD of two, three, etc. of integers. These methods should be able to determine the GCD calculation time too.
+3. An extension method allows you to add a fuction to an exsisting type. (See: https://msdn.microsoft.com/en-us//library/bb383977.aspx for examples.) Your challenge for this Kata is to write two basic extention methods: SayHello and SayGoodbye. Examples: string name = "Kathy"
+    - name.SayHello() --> "Hello, Kathy!"
+    - name.SayGoodbye() --> "Goodbye, Kathy. See you again soon!"
