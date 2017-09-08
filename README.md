@@ -27,13 +27,13 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
  - *Module 11:* [Introduction to Language Integrated Query (LINQ)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M11.%20Introduction%20to%20Language%20Integrated%20Query%20(LINQ))
  - *Module 12:* [Internal device types in .NET Framework. Resource management](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management)
 ### Additional modules 
- - *Module 13:* [Streams and I/O]()
- - *Module 14:* [XML Technologies]()
- - *Module 15:* [Serialization]()
+ - *Module 13:* Streams and I/O
+ - *Module 14:* XML Technologies
+ - *Module 15:* Serialization
  - *Module 16:* [Patterns of enterprise application architecture ](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M16.%20Patterns%20of%20enterprise%20application%20architecture)
- - *Module 17:* [Multythreading]()
- - *Module 18:* [Asynchronous Functions in C#]()
- - *Module 19:* [Attributes]()
- - *Module 20:* [ADO.NET intro]()
+ - *Module 17:* Multythreading
+ - *Module 18:* Asynchronous Functions in C#
+ - *Module 19:* Attributes
+ - *Module 20:* ADO.NET intro
  - *Module 21:* [ADO.NET EF](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M21.%20ADO.NET%20EF)
  
