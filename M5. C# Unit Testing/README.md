@@ -8,6 +8,7 @@
 - [The Art of Unit Testing: with examples in C# Second Edition Edition. Roy Osherove.  Manning Publications Co. 2013.](https://www.manning.com/books/the-art-of-unit-testing-second-edition).
    - *Chapter 1.* [The basics of unit testing](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-1/1)
    - *Chapter 2.* [A first unit test](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-2/)
+- [The Art Of Unit Testing In Ruby, Java & .NET By Roy Osherove - Official Book Site.](http://artofunittesting.com/)
 - [C# Unit Test Tutorial (ENG)](http://www.rhyous.com/programming-development/csharp-unit-test-tutorial/)
 - [Unit Test Your Code (ENG](https://msdn.microsoft.com/en-us/library/dd264975.aspx)
 - [NUnit (ENG)](http://www.nunit.org/)
@@ -40,7 +41,8 @@
 - [C# Unit Testing.pptx (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M6.%20C%23%20Unit%20Testing/C%23%20Unit%20Testing.pptx)
 
 ## Samples 
-[Visual Studio 2015 Samples](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20C%23%20Unit%20Testing/Samples/VS%202015)
+- [Visual Studio 2015 Samples](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20C%23%20Unit%20Testing/Samples/VS%202015)
+- [Code Samples for the book The Art Of Unit Testing 2nd Edition](https://github.com/royosherove/aout2)
 
 ## Tasks  
 **Objective:** *to study unit testing*
