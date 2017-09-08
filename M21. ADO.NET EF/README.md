@@ -13,4 +13,4 @@
 - [Entity Framework Model First](https://msdn.microsoft.com/en-us/library/jj205424%28v=vs.113%29.aspx?f=255&MSPPError=-2147217396)
 
 ## Presentation 
-- ADO.NET EF (ENG)(***in progress***)
+- ADO.NET EF (ENG)
