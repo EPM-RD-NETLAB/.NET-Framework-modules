@@ -31,14 +31,14 @@
 
 ## Tasks  
 **Objective:** 
-- *understanding delegate usage scenarios;*
-- *understanding the relationship delegates versus interfaces;*
-- *understanding callback functions;*
+- *understand delegate usage scenarios;*
+- *understand the relationship delegates versus interfaces;*
+- *understand callback functions;*
 - *study design pattern Observer;*
-- *understanding difference between events and delegates;*
-- *understanding DRY (Don’t Repeat Yourself), SoC (Separation of Concerns principles), Low Coupling principles;*
-- *writing agile extensible testable code;*
-- *understanding standard event delegate pattern.*
+- *understand difference between events and delegates;*
+- *understand DRY (Don’t Repeat Yourself), SoC (Separation of Concerns principles), Low Coupling principles;*
+- *write agile extensible testable code;*
+- *understand standard event delegate pattern.*
 
 1. Refactor of class methods [Task 2 Module 4](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details) using delegates (the API's of the class should not change). 
 2. Add to the class [Task 2 Module 3](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types) new methods with custom delegete, allowing to sorting both in ascending and descending, depending on comparison criterion of the matrix rows. Develop unit-tests using various comparison criterion of the matrix rows. 
