@@ -21,8 +21,8 @@
 - [Внутреннее устройство .NET Framework — как CLR создает объекты периода выполнения (RU)](https://msdn.microsoft.com/ru-ru/library/dd335945.aspx?f=255&MSPPError=-2147217396)
 
 ## Presentation 
-- Internal device types in .NET Framework (ENG)(***in progress***)
-- Resource management (ENG)(***in progress***)
+- Internal device types in .NET Framework (ENG)
+- Resource management (ENG)
 - [Internal device types in .NET Framework (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management/Internal%20device%20types%20in%20.NET%20Framework.pptx)
 - [Resource management (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management/Resource%20management.pptx)
 
