@@ -7,7 +7,7 @@
 - [Tutorial: Common Design Patterns in C# 4.0.](https://csharpdesignpatterns.codeplex.com/)
 
 ## Presentation 
-- Patterns of enterprise application architecture (ENG)(***in progress***)
+- Patterns of enterprise application architecture (ENG)
 - [Patterns of enterprise application architecture (RU)]()
 
 ## Samples 
