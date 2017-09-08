@@ -1,5 +1,5 @@
 ## Material Content 
-- *Design Patterns.*
+- *Principles of software development.*
 - *SOLID principles.*
 
 ## Books & Useful References 
