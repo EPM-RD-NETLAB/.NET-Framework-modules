@@ -35,12 +35,12 @@
 
 ## Tasks  
 **Objective:** 
-- *understanding generic approach in the development;*
-- *understanding difference between typed and not typed generic types;*
-- *understanding IEnumerable, IEnumerator, IEnumerable(T) and IEnumerator(T) interfaces;*
-- *understanding plugging in equality and order;*
-- *understanding foreach loop;*
-- *understanding block iterator yield.*
+- *understand generic approach in the development;*
+- *understand difference between typed and not typed generic types;*
+- *understand IEnumerable, IEnumerator, IEnumerable(T) and IEnumerator(T) interfaces;*
+- *understand plugging in equality and order;*
+- *understand foreach loop;*
+- *understand block iterator yield.*
 
 1. Implement a BinarySearch generic method (*do not use the type constraints*). Develop unit-tests.
 2. The test file contains some information. Implement an algorithm that allows to determine the frequency of occurrences of words in the text. Develop unit-tests.
