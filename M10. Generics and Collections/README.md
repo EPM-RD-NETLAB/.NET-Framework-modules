@@ -27,7 +27,7 @@
    - *Chapter 5.* Collections and Generics
    
 ## Presentation 
-- Generics and Collections (ENG)(***in progress***)
+- Generics and Collections (ENG)
 - [Generics and Collections (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M10.%20Generics%20and%20Collections/Generics%20and%20Collections.pptx)
 
 ## Samples 
