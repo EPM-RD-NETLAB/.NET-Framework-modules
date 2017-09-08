@@ -37,3 +37,8 @@ Add to Customer class an additional formatting capability, that is not provided 
       - TitleCase("a an the of", "a clash of KINGS")   => "A Clash of Kings"
       - TitleCase("The In", "THE WIND IN THE WILLOWS") => "The Wind in the Willows"
       - TitleCase("the quick brown fox")               => "The Quick Brown Fox"
+3. You need to write a function AddOrChangeUrlParameter(url, keyValueParameter) that can manipulate URL parameters. It should be able to add a parameter to an existing URL, but also to change a parameter if it already exists.
+   Example:
+   - AddOrChangeUrlParameter("www.example.com", "key=value") => 'www.example.com?key=value' (adds a parameter).
+   - AddOrChangeUrlParameter("www.example.com?key=value", "key2=value2" ) => 'www.example.com?key=value&key2=value2' (adds another parameter).
+   - AddOrChangeUrlParameter("www.example.com?key=oldValue", "key=newValue" ) => 'www.example.com?key=newValue' (changes the parameter).
