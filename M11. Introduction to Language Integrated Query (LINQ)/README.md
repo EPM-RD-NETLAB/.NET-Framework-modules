@@ -21,7 +21,7 @@
 - [101 LINQ Samples](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
 
 ## Presentation 
-- Introduction to Language Integrated Query (LINQ) (ENG)(*in progress*)
+- Introduction to Language Integrated Query (LINQ) (ENG)
 - [Introduction to Language Integrated Query (LINQ) (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M11.%20Introduction%20to%20Language%20Integrated%20Query%20(LINQ)/Introduction%20to%20Language%20Integrated%20Query%20(LINQ).pptx)
 
 ## Samples 
