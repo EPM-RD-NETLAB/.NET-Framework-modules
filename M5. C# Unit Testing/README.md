@@ -40,7 +40,7 @@
 - [C# Unit Testing.pptx (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M6.%20C%23%20Unit%20Testing/C%23%20Unit%20Testing.pptx)
 
 ## Samples 
-[Visual Studio 2015 Samples](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M6.%20C%23%20Unit%20Testing/Samples/VS%202015)
+[Visual Studio 2015 Samples](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20C%23%20Unit%20Testing/Samples/VS%202015)
 
 ## Tasks  
 **Objective:** *to study unit testing*
