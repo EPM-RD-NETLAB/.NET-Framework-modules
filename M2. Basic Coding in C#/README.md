@@ -14,10 +14,10 @@
    - *Chapter 6.* A Primer on Types and Objects
    - *Chapter 7.* Simple Control Flow
 - [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
-   - *Chapter 2.* Basic Coding in C# ([Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch02.zip))
+   - *Chapter 2.* Basic Coding in C# [Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch02.zip)
 - [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920040323.do)
-   - *Chapter 1.* Introducing C# and the .NET Framework ([Example Code](http://www.albahari.com/nutshell/ch01.aspx))
-   - *Chapter 2.* C# Language Basics ([Example Code](http://www.albahari.com/nutshell/ch02.aspx))
+   - *Chapter 1.* Introducing C# and the .NET Framework [Code Listings](http://www.albahari.com/nutshell/ch01.aspx)
+   - *Chapter 2.* C# Language Basics [Code Listings](http://www.albahari.com/nutshell/ch02.aspx)
 - [Sandcastle - Documentation Compiler for Managed Class Libraries](https://sandcastle.codeplex.com/)
 - [Know Thy Complexities!](http://bigocheatsheet.com/)
 - [StyleCop (StyleCop analyzes C# source code to enforce a set of style and consistency rules.)](https://github.com/StyleCop)
