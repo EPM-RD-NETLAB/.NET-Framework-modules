@@ -23,7 +23,7 @@
 
 ## Tasks 
 **Objective:** 
-- *tstudy extension methods;*
+- *study extension methods;* 
 - *study the format of IEEE 754.* 
 
 1. Implement a binary representation of a real double-precision number in IEEE 754 format as the extension method. 
