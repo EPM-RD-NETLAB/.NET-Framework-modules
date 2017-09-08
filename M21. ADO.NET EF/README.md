@@ -13,12 +13,4 @@
 - [Entity Framework Model First](https://msdn.microsoft.com/en-us/library/jj205424%28v=vs.113%29.aspx?f=255&MSPPError=-2147217396)
 
 ## Presentation 
--  (ENG)(***in progress***)
-- [ (RU)]()
-
-## Samples 
-[LINQPad]()
-
-## Tasks  
-**Objective:** *TODO*
-  - TODO
+- ADO.NET EF (ENG)(***in progress***)
