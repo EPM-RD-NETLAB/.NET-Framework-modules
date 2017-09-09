@@ -4,8 +4,8 @@
 
 ## Books & Useful References 
 - [Agile Software Development, Principles, Patterns, and Practices (Alan Apt Series). Robert C. Martin. 2002](https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices)
-- [.NET Design Patterns Tutorial - For Beginners & Professionals.](http://www.dotnettricks.com/learn/designpatterns)
-- [Tutorial: Common Design Patterns in C# 4.0.](https://csharpdesignpatterns.codeplex.com/)
+- [.NET Design Patterns Tutorial - For Beginners & Professionals](http://www.dotnettricks.com/learn/designpatterns)
+- [Tutorial: Common Design Patterns in C# 4.0](https://csharpdesignpatterns.codeplex.com/)
 - [SOLID Principles in C#](http://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/)
 - [SOLID architecture principles using simple C# examples](https://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-simple-Csharp)
 - [SOLID Principles of Object Oriented Design | Pluralsight](https://www.pluralsight.com/courses/principles-oo-design)
