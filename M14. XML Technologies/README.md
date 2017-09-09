@@ -18,4 +18,9 @@
    - *Chapter 11.* Other XML Technologies [Code Listings](http://www.albahari.com/nutshell/cs4ch11.aspx)
 
 ## Presentations 
+
 - XML Technologies (ENG)
+
+## Samples
+
+[LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies/Samples/LINQPad/XML%20Technologies)
