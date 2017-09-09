@@ -29,7 +29,7 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
 ### Additional modules 
  - *Module 13:* [Streams and I/O](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20I:O)
  - *Module 14:* [XML Technologies](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies)
- - *Module 15:* Serialization
+ - *Module 15:* [Serialization](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M15.%20Serialization)
  - *Module 16:* [Patterns of enterprise application architecture ](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M16.%20Object%20Oriented%20Design%20Principles)
  - *Module 17:* Multythreading
  - *Module 18:* Asynchronous Functions in C#
