@@ -17,6 +17,7 @@
    - *Chapter 22.* Advanced Threading.
 - [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
    - *Chapter 26.* Thread Basics.
+- [Threading in C#](http://www.albahari.com/threading/)
    
 ## Presentation 
 - Threading and Synchronization (ENG)
