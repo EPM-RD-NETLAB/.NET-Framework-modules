@@ -16,6 +16,7 @@
    - *Chapter 27.* Compute-Bound Asynchronous Operations
 - [Pro .NET Performance: Optimize Your C# Applications. Sasha Goldshtein.](http://www.apress.com/us/book/9781430244585)
    - *Chapter 6.* Concurrency and Parallelism
+- [Threading in C# by Joe Albahari](http://www.albahari.com/threading/)
    
 ## Presentation 
 - Task Parallelism and Data Parallelism (ENG)
