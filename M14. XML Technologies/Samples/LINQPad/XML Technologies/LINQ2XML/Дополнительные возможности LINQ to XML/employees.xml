@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee type="Programmer">
+    <FirstName>Alex</FirstName>
+    <LastName>Erohin</LastName>
+  </Employee>
+  <Employee type="Editor">
+    <FirstName>Elena</FirstName>
+    <LastName>Volkova</LastName>
+  </Employee>
+</Employees>
