@@ -9,15 +9,12 @@
 
 #### Books & Useful References 
 
-- [XML Tutorial](https://www.w3schools.com/xml/)
-- [XML Tutorial](https://www.tutorialspoint.com/xml/)
 - [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2015.](http://shop.oreilly.com/product/0636920040323.do)
-   - *Chapter 10.* LINQ to XML [Code Listings](http://www.albahari.com/nutshell/ch10.aspx)
-   - *Chapter 11.* Other XML Technologies [Code Listings](http://www.albahari.com/nutshell/cs4ch11.aspx)
+   - *Chapter 17.* Serialization [Code Listings](http://www.albahari.com/nutshell/cs4ch16.aspx)
 
 ## Presentations 
 
-- XML Technologies (ENG)
+- Serialization (ENG)
 
 ## Samples
 
