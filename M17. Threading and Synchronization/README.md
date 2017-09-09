@@ -20,7 +20,6 @@
    
 ## Presentation 
 - Threading and Synchronization (ENG)
-- [Generics and Collections (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M10.%20Generics%20and%20Collections/Generics%20and%20Collections.pptx)
 
 ## Samples 
-[LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M10.%20Generics%20and%20Collections/Samples/LINQPad%205)
+[LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M17.%20Threading%20and%20Synchronization/Samples/LINQPad%205)
