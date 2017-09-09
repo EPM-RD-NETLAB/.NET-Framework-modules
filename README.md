@@ -28,7 +28,7 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
  - *Module 12:* [Internal device types in .NET Framework. Resource management](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management)
 ### Additional modules 
  - *Module 13:* [Streams and I/O](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20I:O)
- - *Module 14:* XML Technologies
+ - *Module 14:* [XML Technologies](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies)
  - *Module 15:* Serialization
  - *Module 16:* [Patterns of enterprise application architecture ](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M16.%20Object%20Oriented%20Design%20Principles)
  - *Module 17:* Multythreading
