@@ -18,4 +18,4 @@
 - Threading and Synchronization (ENG)
 
 ## Samples 
-[LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M17.%20Threading%20and%20Synchronization/Samples/LINQPad%205)
+[LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M19.%20Asynchronous%20Functions%20in%20C%23/Samples/LINQPad)
