@@ -1,18 +1,28 @@
 ## Material Content 
 
-- *Stream Architecture.*
-- *Using Streams.*
-- *Stream Adapters, Stream Decorators.*
-- *File and Directory Operations.*
+- *XML intro.*
+- *Architectural Overview.*
+- *X-DOM Overview.*
+- *The LINQ to XML DOM. Instantiating an X-DOM.*
+- *Navigating and Querying. Updating an X-DOM.*
+- *Documents and Declarations.*
+- *Projecting into an X-DOM.*
+- *XmlReader. XmlWriter.*
+- *Patterns for Using XmlReader/XmlWriter.*
+- *XSD and Schema Validation. XSLTXSD, XSLT, XPath.*
 
-## Books 
+#### Books & Useful References 
 
+- [XML Tutorial](https://www.w3schools.com/xml/)
+- [XML Tutorial](https://www.tutorialspoint.com/xml/)
 - [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2015.](http://shop.oreilly.com/product/0636920040323.do)
-   - *Chapter 15.* Streams and I/O [Code Listings](http://www.albahari.com/nutshell/cs5ch15.aspx)
-- [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2013.](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
-   - *Chapter 28.* Working with I/O 
-- [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
-   - *Chapter 16.* Files and Streams [Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch16.zip)
+   - *Chapter 10.* LINQ to XML [Code Listings](http://www.albahari.com/nutshell/ch10.aspx)
+   - *Chapter 11.* Other XML Technologies [Code Listings](http://www.albahari.com/nutshell/cs4ch11.aspx)
 
 ## Presentations 
-- Streams and I/O (ENG)
+
+- XML Technologies (ENG)
+
+## Samples
+
+[LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies/Samples/LINQPad/XML%20Technologies)
