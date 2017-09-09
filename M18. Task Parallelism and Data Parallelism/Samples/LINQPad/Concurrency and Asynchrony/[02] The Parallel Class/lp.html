@@ -1,0 +1,217 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><link rel="stylesheet" type="text/css" href="styles.css" />
+	<title>Download LINQPad</title>
+
+
+	<script type="text/javascript">
+<!--
+		function ValidateRegName(textBox) {
+			if (textBox.value.replace(/^\s*/, '').replace(/\s*$/, '').length < 5) {
+				alert("Registration name must be at least 5 characters");
+				return (false);
+			}
+			return (true);
+		}
+		function ValidateRegNameLead(textBox, lead) {
+			if (!ValidateRegName (textBox)) {
+				return (false);
+			}
+			try {
+				var xmlhttp;
+				if (window.XMLHttpRequest) {
+					xmlhttp = new XMLHttpRequest();
+				}
+				else if (window.ActiveXObject) {
+					// IE6, earlier
+					xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+				}
+				xmlhttp.open("GET", "RecordLead.aspx?source=" + lead.value, true);
+				xmlhttp.send(null);
+			}
+			catch (exception) { }
+			return (true);
+		}
+-->
+	</script>
+
+	
+<title>
+
+</title></head>
+<body>
+	<div id="main">
+		
+		
+		<form name="aspnetForm" method="post" action="default.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgkPFgIeCWlubmVyaHRtbAXkBDxsaSBjbGFzcz0nc2VsZWN0ZWQnPjxhIGNsYXNzPSdzZWxlY3RlZCcgaHJlZj0nLyc+SG9tZSAvIERvd25sb2FkPC9hPjwvbGk+PGxpPjxhIGhyZWY9J0ZBUS5hc3B4Jz5GQVE8L2E+PC9saT48bGk+PGEgaHJlZj0nUHVyY2hhc2UuYXNweCc+UHVyY2hhc2UgQXV0b2NvbXBsZXRpb248L2E+PC9saT48bGk+PGEgaHJlZj0nQ29kZVNuaXBwZXRJREUuYXNweCc+TElOUVBhZCBhcyBhIENvZGUgU25pcHBldCBJREU8L2E+PC9saT48bGk+PGEgaHJlZj0nRW50aXR5RnJhbWV3b3JrLmFzcHgnPkxJTlFQYWQgJiBFbnRpdHkgRnJhbWV3b3JrPC9hPjwvbGk+PGxpPjxhIGhyZWY9J0JldGEuYXNweCc+UHJldmlldyBMYXRlc3QgQmV0YTwvYT48L2xpPjxsaT48YSBocmVmPSdIb3dMSU5RUGFkV29ya3MuYXNweCc+SG93IExJTlFQYWQgV29ya3M8L2E+PC9saT48bGk+PGEgaHJlZj0nV2h5TElOUUJlYXRzU1FMLmFzcHgnPldoeSBMSU5RIEJlYXRzIFNRTDwvYT48L2xpPjxsaT48YSBocmVmPSdDaGFsbGVuZ2UuYXNweCc+VGhlIExJTlFQYWQgQ2hhbGxlbmdlPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2ZlZWRiYWNrLmFzcHgnPkZlZWRiYWNrIC8gQ29udGFjdCAvIFN1YnNjcmliZTwvYT48L2xpPmRkjsMzvLsVI3u22NdMm3DPyg9uwfE=" />
+
+		
+	<div id="right">
+	<img src="downloadglyph.png" />
+			<span style="font-size: 110%; color: #9A3858; font-family: Arial"><b>Download LINQPad</b></span><br />
+			<p><b>Two download options:</b></p>
+			<p class="downloadheader">
+				Standalone Executable
+			</p>
+			<div class="downloadbox">
+				<a class="emlink" href="http://www.linqpad.net/LINQPad.exe">Download LINQPad.exe</a><br />
+				<span style="font-size: 90%">(right-click, Save As...)</span>
+			</div>
+			<p class="downloadheader">
+				Low-Impact Setup
+			</p>
+			<div class="downloadbox">
+				<a class="emlink" href="http://www.linqpad.net/LINQPadSetup.exe">Download setup.exe</a><br />
+				<ul class="downloadbox">
+					<li class="downloadbox">Creates desktop shortcut</li>
+					<li class="downloadbox">Creates .LINQ file association</li>
+				</ul>
+				<p style="margin-bottom:0"><img src="tick.png" />Authenticode signed</p>
+			</div>
+			<span style="font-size: 90%">Current Release Version: <b>1.35.3<br />
+        </b></span><a href="#prerequisites">Prerequisites</a></a> | <a href="#license">License</a><br />
+			<span style="font-size: 90%"><i><a href="Beta.aspx">Click here for latest 
+        beta</a></i></span></div>
+	<h2>
+		Tired of querying in antiquated SQL?</h2>
+	<p>
+		Well, you don't have to!&nbsp; <b>LINQPad</b> lets you interactively query SQL databases
+		in a <i>modern query language</i>: <b>LINQ.&nbsp; </b>Kiss goodbye to SQL Management
+		Studio!
+	</p>
+	<p>
+		LINQPad supports everything in C# 3.0 and Framework 3.5:</p>		
+	<ul>
+		<li>LINQ to Objects</li>
+		<li>LINQ to SQL</li>
+		<li>Entity Framework</li>
+		<li>LINQ to XML</li>
+        <li><i>ADO.NET Data Services &amp; SQL Azure</i> (<a href="Beta.aspx">in the RC</a>)</li>
+        <li><i>LINQ to SQLite and <a href="http://www.mysql.com/trials/partner3948">MySQL 
+            Enterprise Server</a></i> (<a href="Beta.aspx">in the RC</a>)</li>
+		<li>(Even <a href="http://blogs.trekforth.com/2009/07/querying-sql-with-linqpad.html">old-fashioned SQL</a>!)</li>
+	</ul>
+	<p>
+		LINQPad is also a great way to learn LINQ: it comes preloaded with 200 examples
+		from the book, <a href="http://www.albahari.com/nutshell/">C# 3.0 in a Nutshell</a>.&nbsp;
+		There's no better way to experience the coolness of LINQ and <i>functional programming</i>.</p>
+	<p>
+		And LINQPad is more than just a LINQ tool: it's a highly ergonomic <a href="CodeSnippetIDE.aspx">code snippet IDE</a> 
+		that instantly executes any C#/VB expression, statement block or program – the ultimate in dynamic development.
+		Put an end to those hundreds of Visual Studio Console projects 
+		cluttering your source folder!</p>
+	<p>
+		<b>Best of all, LINQPad standard edition is free and can run without installation</b>
+		(or with a low-impact setup). The executable is 3MB and is self-updating.</p>
+	<p>
+		<img border="0" style="margin-top:0.5em" src="linqpadscreen.png" alt="LINQPad Screenshot" width="883" height="739" /></p>
+	<h3>
+		<a name="prerequisites"></a>Prerequisites</h3>
+	<p>
+		LINQPad requires <a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=333325fd-ae52-4e35-b531-508d977d32a6&DisplayLang=en">
+			.NET Framework 3.5</a>.</p>
+	<p>
+		If you have <a href="http://msdn2.microsoft.com/en-us/vstudio/products/default.aspx">
+			Visual Studio 2008</a> or <a href="http://www.microsoft.com/express/vcsharp/">Visual
+				C# 2008 Express</a>, then Framework 3.5 will already be installed.&nbsp;</p>
+	<p>
+		LINQPad supports SQL Express, SQL 2000, SQL 2005, and (with some limitations) SQL
+		2008.</p>
+	<h3>
+		<a name="license"></a>License</h3>
+	<p>
+		LINQPad standard edition is free to download and use.
+		 <a href="Purchase.aspx">Autocompletion</a> is an optional extra.
+		 </p>
+	<p>
+		LINQPad is not an open-source product and the source code is protected by standard
+		copyright laws.&nbsp; Nonetheless, you are free to disassemble the executable to
+		satisfy your curiosity.
+		The author provides no warranties, and accepts no liability for direct or consequential
+		damages. <a href="eula.txt">Read full EULA</a></p>
+	<p>
+		The code samples from <a href="http://www.albahari.com/nutshell/">C# 3.0/4.0 in a Nutshell</a>
+		are © O'Reilly Media Inc.</p>
+
+
+		</form>
+		
+		
+	</div>
+	<div id="side">
+		<p>
+			<b>Over 150,000 downloads</b></p>
+		<a href="http://www.linqpad.net/">
+			<img border="0" src="linqpadmed.png" alt="LINQPad" width="156" height="150" /></a>
+			
+		<p style="font-size:300%; color:#9A3858; margin-top:0; margin-bottom:0"><b>LINQPad</b></p>
+
+		<ul id="ctl00_nav" class="nav"><li class='selected'><a class='selected' href='/'>Home / Download</a></li><li><a href='FAQ.aspx'>FAQ</a></li><li><a href='Purchase.aspx'>Purchase Autocompletion</a></li><li><a href='CodeSnippetIDE.aspx'>LINQPad as a Code Snippet IDE</a></li><li><a href='EntityFramework.aspx'>LINQPad & Entity Framework</a></li><li><a href='Beta.aspx'>Preview Latest Beta</a></li><li><a href='HowLINQPadWorks.aspx'>How LINQPad Works</a></li><li><a href='WhyLINQBeatsSQL.aspx'>Why LINQ Beats SQL</a></li><li><a href='Challenge.aspx'>The LINQPad Challenge</a></li><li><a href='feedback.aspx'>Feedback / Contact / Subscribe</a></li></ul>		
+
+		<p>
+			<br />
+			<b>External links</b></p>
+		<div style="margin-left: 1em">
+			<p>
+				Video Tutorials:<br />
+				&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://oreilly.com/pub/e/909" target="_blank">O'Reilly</a><br />
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.linqpad.com/UsingLINQPad.mov">- Hi-res QuickTime (50MB)</a><br />
+				&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://oreilly.com/pub/e/1295" target="_blank">LINQPad + EF</a><br />
+				&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.dimecasts.net/Casts/ByTag/LinqPad" target="_blank">Dimecasts</a></p>
+			<p>
+				<a href="http://forums.oreilly.com/category/22/C-3-0-in-a-Nutshell/" target="_blank">
+					LINQPad Forum</a></p>
+			<p>
+				<a href="http://blogs.conchango.com/jamiethomson/archive/2009/07/06/linqpad-and-azure.aspx" target="_blank">LINQPad and Azure</a></p>
+			<p>
+				<a href="http://www.csharpbydesign.com/2009/07/linqbugging---using-linqpad-for-winforms-testing.html" target="_blank">LINQBugging WinForms/WPF</a></p>
+			<p>
+				<a href="http://www.aneyfamily.com/terryandann/post/2008/12/Ive-Left-Query-Analyzer-Hell-For-LINQPad-Heaven.aspx" target="_blank">Terry's LINQPad Extensions</a></p>
+			<p>
+				<a href="http://www.albahari.com/nutshell/linqquiz.html" target="_blank">The LINQ Quiz</a></p>
+			<p>
+				<a href="http://www.albahari.com/" target="_blank">More...</a><br />
+				&nbsp;</p>
+		</div>
+		
+	<div class="promoheader">
+		Recommendations
+	</div>
+	<div class="promobox">
+
+		“<i>This is one of those useful tools you just should always have around and 
+		&quot;linqed&quot; to a hotkey</i>” –
+		<a href="http://www.west-wind.com/Weblog/posts/319003.aspx">Rick Strahl, 
+		West Wind Technologies</a><br />
+		<br />
+	“Fantastic learning tool” –
+		<a href="http://www.hanselman.com/blog/ScottHanselmans2009UltimateDeveloperAndPowerUsersToolListForWindows.aspx">
+		Scott Hanselman</a>, Principal Program Manager, Microsoft<br />
+		<br />
+		“<i>Definitely download and try if you’re working with LINQ or just want a fast 
+		code snippet editor</i>” –
+		<a href="http://www.sqlmag.com/Article/ArticleID/100317/sql_server_100317.html">
+		SQL Server Magazine</a><br />
+		<br />
+		“<i>It is an amazing tool – it does so much more than I expected and appears to 
+		be rock solid</i>” –
+		<a href="http://blogs.msdn.com/ericnel/archive/2008/07/25/how-come-nobody-ever-told-me-about-linqpad.aspx">
+		Eric Nelson</a>, DE Microsoft UK<br />
+		<br />
+		“<i>Coolness factor: 11!</i>” –
+		<a href="http://weblogs.asp.net/guybarrette/archive/2008/03/16/linqpad.aspx">Guy 
+		Barrette</a>
+	</div>
+
+		<p style="font-size: 90%">
+			<br />
+			LINQPad was written<br />
+			by <a href="http://www.albahari.com/">Joseph Albahari</a>.</p>
+		<p style="font-size: 90%">
+			© 2007-2010</p>
+	</div>
+</body>
+</html>
