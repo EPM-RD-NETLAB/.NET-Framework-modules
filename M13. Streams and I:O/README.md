@@ -15,8 +15,7 @@
    - *Chapter 16.* Files and Streams [Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch16.zip)
 
 ## Presentations 
-- [Types (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Types/Types.pptx)
-- [Types (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Types/Types%20(RU).pptx)
+- Streams and I/O (ENG)
 
 ## Samples 
 [LINQPad](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types/Samples/LINQPad%205)
