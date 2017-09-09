@@ -15,7 +15,7 @@
 - [Threading in C# by Joe Albahari](http://www.albahari.com/threading/)
    
 ## Presentation 
-- Threading and Synchronization (ENG)
+- Asynchronous Functions in C# (ENG)
 
 ## Samples 
 [LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M19.%20Asynchronous%20Functions%20in%20C%23/Samples/LINQPad)
