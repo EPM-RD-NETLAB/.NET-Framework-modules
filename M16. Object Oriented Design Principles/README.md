@@ -15,7 +15,8 @@
 - [Object Oriented Design Principles (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M16.%20Object%20Oriented%20Design%20Principles/Object%20Oriented%20Design%20Principles.pptx)
 
 ## Samples 
-[LINQPad SOLID](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M16.%20Object%20Oriented%20Design%20Principles/SOLID)
+- [LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M16.%20Object%20Oriented%20Design%20Principles/Samples/LINQPad/SOLID)
+- [Visual Studio 2015](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M16.%20Object%20Oriented%20Design%20Principles/Samples/VS%202015)
 
 ## Tasks  
 **Objective:** 
