@@ -17,8 +17,6 @@
    - *Chapter 22.* Advanced Threading.
 - [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
    - *Chapter 26.* Thread Basics.
-- [Pro .NET Performance: Optimize Your C# Applications. Sasha Goldshtein.](http://www.apress.com/us/book/9781430244585)
-   - *Chapter 5.* Collections and Generics
    
 ## Presentation 
 - Threading and Synchronization (ENG)
@@ -26,12 +24,3 @@
 
 ## Samples 
 [LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M10.%20Generics%20and%20Collections/Samples/LINQPad%205)
-
-## Tasks  
-**Objective:** 
-- *understand generic approach in the development;*
-- *understand difference between typed and not typed generic types;*
-- *understand IEnumerable, IEnumerator, IEnumerable(T) and IEnumerator(T) interfaces;*
-- *understand plugging in equality and order;*
-- *understand foreach loop;*
-- *understand block iterator yield.*
