@@ -31,9 +31,10 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
  - *Module 14:* [XML Technologies](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies)
  - *Module 15:* [Serialization](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M15.%20Serialization)
  - *Module 16:* [Patterns of enterprise application architecture ](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M16.%20Object%20Oriented%20Design%20Principles)
- - *Module 17:* [Multythreading](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M17.%20Multythreading)
- - *Module 18:* Asynchronous Functions in C#
- - *Module 19:* Attributes
- - *Module 20:* ADO.NET intro
- - *Module 21:* [ADO.NET EF](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M21.%20ADO.NET%20EF)
+ - *Module 17:* [Threading and Synchronization](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M17.%20Threading%20and%20Synchronization)
+ - *Module 18:* Task Parallelism and Data Parallelism
+ - *Module 19:* Asynchronous Functions in C#
+ - *Module 20:* Attributes
+ - *Module 21:* ADO.NET intro
+ - *Module 22:* [ADO.NET EF](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M21.%20ADO.NET%20EF)
  
