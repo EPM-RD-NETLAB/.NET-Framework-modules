@@ -16,9 +16,3 @@
 
 ## Presentations 
 - Streams and I/O (ENG)
-
-## Samples 
-[LINQPad](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types/Samples/LINQPad%205)
-
-## Tasks  
-**Objective:** 
