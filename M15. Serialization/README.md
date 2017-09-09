@@ -1,15 +1,11 @@
 ## Material Content 
 
-- *XML intro.*
-- *Architectural Overview.*
-- *X-DOM Overview.*
-- *The LINQ to XML DOM. Instantiating an X-DOM.*
-- *Navigating and Querying. Updating an X-DOM.*
-- *Documents and Declarations.*
-- *Projecting into an X-DOM.*
-- *XmlReader. XmlWriter.*
-- *Patterns for Using XmlReader/XmlWriter.*
-- *XSD and Schema Validation. XSLTXSD, XSLT, XPath.*
+- *Serialization Concepts.*
+- *Serialization mechanisms in the .NET Framework*
+- *Formatters.*
+- *The Data Contract Serializer.*
+- *The Binary Serializer.*
+- *XML Serialization.*
 
 #### Books & Useful References 
 
