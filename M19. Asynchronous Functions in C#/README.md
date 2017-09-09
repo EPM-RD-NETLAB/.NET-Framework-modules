@@ -1,11 +1,7 @@
 ## Material Content 
-- *Overview and key concepts.*
-- *Thread. ThreadPool.*
-- *Synchronization Overview.*
-- *Exclusive Locking. The lock Statement. Monitor.*
-- *Mutex. Semaphore.*
-- *More Advanced Locks.*
-- *Signaling with Event Wait Handles. ManualResetEvent. AutuResetEvent.*
+- *Asynchronous function C # 5.0*
+- *The await Pattern.*
+- *Error Handling.*
 
 ## Books & Useful References 
 - [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do) 
