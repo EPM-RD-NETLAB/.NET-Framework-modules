@@ -1,17 +1,19 @@
 ## Material Content 
-- *Applying Attributes.*
-- *Defining and Consuming Custom Attributes.*
+- *Introduction to ADO.NET.*
+- *Connected approach.*
+- *The SqlConnection Object.*
+- *The SqlCommand Object.*
+- *Reading Data with the SqlDataReader.*
+- *Disconnected approach – The DataSet and SqlDataAdapter.*
+- *Using Stored Procedures.*
 
 ## Books & Useful References 
-- [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do) 
-   - *Chapter 15.* Attributes. [Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch15.zip) 
-- [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2013](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
-   - *Chapter 21.* Reflection.
-- [CLR via C#. Jeffrey Richter. Microsoft Press. 2010](https://www.goodreads.com/book/show/7121415-clr-via-c)
-   - *Chapter 18.* Custom Attributes.
+- [ADO.NET Tutorial](http://csharp-station.com/Tutorial/AdoDotNet)
+- [ADO.NET Tutorial](https://www.javatpoint.com/ado-net-tutorial)
+- [ADO.NET](https://www.tutorialspoint.com/asp.net/asp.net_ado_net.htm)
    
 ## Presentation 
-- Attributes (ENG)
+- ADO.NET intro (ENG)
 
-## Samples 
-LINQPad 5
+## Samples
+[ADO.NET code examples](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-code-examples)
