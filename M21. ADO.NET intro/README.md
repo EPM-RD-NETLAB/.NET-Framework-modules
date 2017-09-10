@@ -1,5 +1,6 @@
 ## Material Content 
-- *Introduction to ADO.NET.*
+- *ADO.NET infrastructure.*
+- *The Data Provider Model.*
 - *Connected approach.*
 - *The SqlConnection Object.*
 - *The SqlCommand Object.*
