@@ -35,6 +35,6 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
  - *Module 18:* [Task Parallelism and Data Parallelism](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M18.%20Task%20Parallelism%20and%20Data%20Parallelism)
  - *Module 19:* [Asynchronous Functions in C#](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M19.%20Asynchronous%20Functions%20in%20C%23)
  - *Module 20:* [Attributes](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M20.%20Attributes)
- - *Module 21:* ADO.NET intro
+ - *Module 21:* [ADO.NET intro](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M21.%20ADO.NET%20intro)
  - *Module 22:* [ADO.NET EF](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M21.%20ADO.NET%20EF)
  
