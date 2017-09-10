@@ -49,4 +49,6 @@ Add to Customer class an additional formatting capability, that is not provided 
    - UniqueInOrder(new List<double> {1.1, 2.2, 2.2, 3.3}) => new List<double> {1.1, 2.2, 3.3}
 5. Complete the solution so that it reverses all of the words within the string passed in. Example: 
       ReverseWords("The greatest victory is that which requires no battle") => "battle no requires which that is victory greatest The"
+6. Write a function that returns the sum of two big numbers. The input numbers are strings and the function must return a string.
+   
    
