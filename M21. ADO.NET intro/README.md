@@ -9,7 +9,7 @@
 - *Using Stored Procedures.*
 
 ## Books & Useful References 
-- [](https://opbuildstorageprod.blob.core.windows.net/output-pdf-files/en-us/VS.core-docs/live/framework/data/adonet.pdf)
+- [ADO.NET](https://opbuildstorageprod.blob.core.windows.net/output-pdf-files/en-us/VS.core-docs/live/framework/data/adonet.pdf)
 - [SQL-intro](https://github.com/EPM-RD-NETLAB/SQL-intro)
 - [ADO.NET Tutorial](http://csharp-station.com/Tutorial/AdoDotNet)
 - [ADO.NET Tutorial](https://www.javatpoint.com/ado-net-tutorial)
