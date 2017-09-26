@@ -53,9 +53,9 @@ Samples of the XML files that the parser can process are in the archive [xml.7z]
  
  *Output:*  Sorted list of all different values that this node has with number of occurrences of each value, sorted by number of occurrences, descending. If a node is missing in a certain XML it should be considered as having "N/A" value.
 
-**Input XML files**
+**Input: (XML files: File1.xml, File2.xml, File3.xml) and XPath = "docID"**
 
-*File 1:*
+*File1.xml:*
 
 <?xml version="1.0" encoding="UTF-8"?>
 <docSearch_dsReq_0_0 xmlns="x-schema:mxschema://docsearch" maxRows="1" exclude3rdParty="0" synCharsRequired="0" acceptLanguage="en" ppv="both" calcPrice="1" tkrEncoding="prtID" infoLevel="default" dateRange="allDates" queryType="normal" companyID="222" userID="798955">
@@ -64,7 +64,7 @@ Samples of the XML files that the parser can process are in the archive [xml.7z]
    <excludeCtbs>0</excludeCtbs>
 </docSearch_dsReq_0_0>
 
-*File 2:*
+*File2.xml:*
 
 <?xml version="1.0" encoding="UTF-8"?>
 <docSearch_dsReq_0_0 xmlns="x-schema:mxschema://docsearch" maxRows="3" exclude3rdParty="1" synCharsRequired="0" acceptLanguage="en" calcPrice="0" tkrPrimary="1" tkrEncoding="prtID" dateRange="last90Days" queryType="normal" companyID="25256" userID="3118158">
@@ -98,3 +98,5 @@ Samples of the XML files that the parser can process are in the archive [xml.7z]
    <subject>OVER</subject>
    <subject>NOV</subject>
 </docSearch_dsReq_0_0>
+
+XPath: “docID”  Output: N/A, 2 34387618, 1 
