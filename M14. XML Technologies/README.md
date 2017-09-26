@@ -82,4 +82,19 @@ Samples of the XML files that the parser can process are in the archive [xml.7z]
 </docSearch_dsReq_0_0>
 
 *File 3:*
-<?xml version="1.0"?><docSearch_dsReq_0_0 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" calcPrice="1" dateRange="allDates" companyID="184" userID="2112" xmlns="http://www.schemas.multex.com/docsearch"><sort s_c="date" /><excludeCtbs>false</excludeCtbs><ctbs>17846</ctbs><industrySet>MG#10338</industrySet><industry>0606</industry><industry>0609</industry><industry>0612</industry><industry>0133</industry><industry>0909</industry><industry>1209</industry><subjectSet>MX#001</subjectSet><subject>OVER</subject><subject>NOV</subject></docSearch_dsReq_0_0>
+<?xml version="1.0"?>
+<docSearch_dsReq_0_0 xmlns="http://www.schemas.multex.com/docsearch" userID="2112" companyID="184" dateRange="allDates" calcPrice="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <sort s_c="date"/>
+   <excludeCtbs>false</excludeCtbs>
+   <ctbs>17846</ctbs>
+   <industrySet>MG#10338</industrySet>
+   <industry>0606</industry>
+   <industry>0609</industry>
+   <industry>0612</industry>
+   <industry>0133</industry>
+   <industry>0909</industry>
+   <industry>1209</industry>
+   <subjectSet>MX#001</subjectSet>
+   <subject>OVER</subject>
+   <subject>NOV</subject>
+</docSearch_dsReq_0_0>
