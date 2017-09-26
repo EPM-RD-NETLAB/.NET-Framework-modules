@@ -43,6 +43,10 @@ Consider following situations:
  - When the number of files and the size of a file is very huge (i.e  1GB) - XML parser still needs to work stable.
  - When the xml file is not "Well Formed" - log the exception that occurred (use for instance – NLog or log4net or any other).
 
+Develop unit tests for the constructed class library.
+
+Develop console applicatin for workinп with the constructed class library. 
+
 Samples of the XML files that the parser can process are in the archive [xml.7z](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies/Data).
  
  *Input: (Read the input parameters from a configuration file.)*
