@@ -36,7 +36,7 @@
    - select a node in all files based on a specified XPath  expression;
    - calculate number of occurrences of each different value of this node;
    The required number of concurrent threads and xpath expression folder recommended to be configured (file app.config by default). 
-   Consider following situations:
+Consider following situations:
  - When the number of files and the size of a file is very huge (i.e  1GB) - XML parser still needs to work stable.
  - When the xml file is not "Well Formed" - log the exception that occurred (use for instance – NLog or log4net or any other).
 
