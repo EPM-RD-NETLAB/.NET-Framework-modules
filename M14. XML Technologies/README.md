@@ -81,7 +81,7 @@ Samples of the XML files that the parser can process are in the archive [xml.7z]
    <matchStr strSrc="hdln">"model"</matchStr>
 </docSearch_dsReq_0_0>
 
-*File 3:*
+*File3.xml:*
 <?xml version="1.0"?>
 <docSearch_dsReq_0_0 xmlns="http://www.schemas.multex.com/docsearch" userID="2112" companyID="184" dateRange="allDates" calcPrice="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
    <sort s_c="date"/>
@@ -99,4 +99,6 @@ Samples of the XML files that the parser can process are in the archive [xml.7z]
    <subject>NOV</subject>
 </docSearch_dsReq_0_0>
 
-XPath: “docID”  Output: N/A, 2 34387618, 1 
+**Output:**
+   *N/A 2, 
+   *234387618, 1
