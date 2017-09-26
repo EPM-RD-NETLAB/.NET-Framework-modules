@@ -44,9 +44,10 @@ Consider following situations:
 
 Samples of the XML files that the parser can process are in the archive [xml.7z](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies/Data).
  
- **Examples.** 
+ **Examples.**
+ 
  *Input:(Read the input parameters from a configuration file.)*
  1) Path to the folder with XML files to be processed.
  2) XPath expression pointing to a node in XML.
  3) Number of concurrent threads.
-  
+  *Output:* Sorted list of all different values that this node has with number of occurrences of each value, sorted by number of occurrences, descending. If a node is missing in a certain XML it should be considered as having "N/A" value.
