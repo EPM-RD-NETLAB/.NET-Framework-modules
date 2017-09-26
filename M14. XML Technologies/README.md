@@ -36,7 +36,7 @@
    - select a node in all files based on a specified XPath  expression;
    - calculate number of occurrences of each different value of this node.
 
-The required number of concurrent threads and xpath expression folder recommended to be configured (file app.config by default). 
+The required number of concurrent threads, xpath expression and xml files folder recommended to be configured (file app.config by default). 
 
 Consider following situations:
  - When the number of files and the size of a file is very huge (i.e  1GB) - XML parser still needs to work stable.
@@ -44,3 +44,9 @@ Consider following situations:
 
 Samples of the XML files that the parser can process are in the archive [xml.7z](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies/Data).
  
+ **Examples.**
+ *Input:*
+ 1) Path to the folder with XML files to be processed.
+ 2) XPath expression pointing to a node in XML.
+ 3) Number of concurrent threads.
+ Read the input parameters from a configuration file. 
