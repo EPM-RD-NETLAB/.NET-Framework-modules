@@ -100,5 +100,6 @@ Samples of the XML files that the parser can process are in the archive [xml.7z]
 </docSearch_dsReq_0_0>
 
 **Output:**
-   *N/A 2, 
-   *234387618, 1
+
+   * N/A 2, 
+   * 234387618, 1
