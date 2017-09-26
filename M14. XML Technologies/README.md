@@ -33,5 +33,8 @@
 - *study architecture based on interfaces;*
 - *write adaptive code.*
 1. Develop multithreaded XML parser to analysis a large number of xml files. Implement it as class library (classes and intrfaces) with following features
-   - select a node in all these files based on a specified XPath  expression
+   - select a node in all files based on a specified XPath  expression;
+   - calculate number of occurrences of each different value of this node;
+   - 
+   
 Consider this as a real production task from a customer (this implies quality of code, correctness of results and communication style). Samples of the XML files that the parser can process are in the archive xml.7z
