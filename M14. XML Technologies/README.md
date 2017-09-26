@@ -117,3 +117,4 @@ Samples of the XML files that the parser can process are in the archive [xml.7z]
 
    * date, 2 
    * score, 1
+   
