@@ -52,3 +52,31 @@ Samples of the XML files that the parser can process are in the archive [xml.7z]
  3) Number of concurrent threads.
  
  *Output:*  Sorted list of all different values that this node has with number of occurrences of each value, sorted by number of occurrences, descending. If a node is missing in a certain XML it should be considered as having "N/A" value.
+
+**Input XML files**
+
+*File 1*
+
+<?xml version="1.0" encoding="UTF-8"?>
+<docSearch_dsReq_0_0 xmlns="x-schema:mxschema://docsearch" maxRows="1" exclude3rdParty="0" synCharsRequired="0" acceptLanguage="en" ppv="both" calcPrice="1" tkrEncoding="prtID" infoLevel="default" dateRange="allDates" queryType="normal" companyID="222" userID="798955">
+   <docID>34387618</docID>
+   <sort s_d="desc" s_c="score"/>
+   <excludeCtbs>0</excludeCtbs>
+</docSearch_dsReq_0_0>
+
+*File 2*
+
+<?xml version="1.0" encoding="UTF-8"?>
+<docSearch_dsReq_0_0 xmlns="x-schema:mxschema://docsearch" maxRows="3" exclude3rdParty="1" synCharsRequired="0" acceptLanguage="en" calcPrice="0" tkrPrimary="1" tkrEncoding="prtID" dateRange="last90Days" queryType="normal" companyID="25256" userID="3118158">
+   <sort s_d="desc" s_c="date"/>
+   <excludeCtbs>0</excludeCtbs>
+   <ctbs>54,767,2,5179,3202,3414,16006,360,25256</ctbs>
+   <ticker>100204446</ticker>
+   <analystSet>MX#001</analystSet>
+   <industrySet>MX#001</industrySet>
+   <subjectSet>MX#001</subjectSet>
+   <regionSet>MX#001</regionSet>
+   <categorySet>MX#001</categorySet>
+   <langID>en</langID>
+   <matchStr strSrc="hdln">"model"</matchStr>
+</docSearch_dsReq_0_0>
