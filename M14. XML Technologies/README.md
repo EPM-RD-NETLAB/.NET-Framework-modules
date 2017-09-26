@@ -33,7 +33,7 @@
 - *study architecture based on interfaces;*
 - *write adaptive code.*
 
-Develop parallel XML parser to analysis a large number of xml files. Implement it as class library (set of classes and intrfaces) with following features
+Develop concurrent XML parser to analysis a large number of xml files. Implement it as class library (set of classes and intrfaces) with following features
    - select a node in all files based on a specified XPath  expression;
    - calculate number of occurrences of each different value of this node.
 
