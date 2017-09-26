@@ -44,9 +44,9 @@ Consider following situations:
 
 Samples of the XML files that the parser can process are in the archive [xml.7z](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies/Data).
  
- **Examples.**
- *Input:*
+ **Examples.** 
+ *Input:(Read the input parameters from a configuration file.)*
  1) Path to the folder with XML files to be processed.
  2) XPath expression pointing to a node in XML.
  3) Number of concurrent threads.
- Read the input parameters from a configuration file. 
+  
