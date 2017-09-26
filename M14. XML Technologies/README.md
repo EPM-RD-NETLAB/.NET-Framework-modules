@@ -37,4 +37,4 @@
    - calculate number of occurrences of each different value of this node;
    - 
    
-Consider this as a real production task from a customer (this implies quality of code, correctness of results and communication style). Samples of the XML files that the parser can process are in the archive xml.7z
+Consider this as a real production task from a customer (this implies quality of code, correctness of results and communication style). Samples of the XML files that the parser can process are in the archive [xml.7z](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies/Data)
