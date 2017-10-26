@@ -60,11 +60,11 @@ Samples of the XML files that the parser can process are in the archive [xml.7z]
 
 **Input: (XML files: File1.xml, File2.xml, File3.xml) and XPath = "docID"**
 
-*File1.xml:*[here(https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies/Data)]
+*File1.xml:*[here](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies/Data)
 
-*File2.xml:*[here(https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies/Data)]
+*File2.xml:*[here](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies/Data)
 
-*File3.xml:*[here(https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies/Data)]
+*File3.xml:*[here](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies/Data)
 
 **Output:**
 
