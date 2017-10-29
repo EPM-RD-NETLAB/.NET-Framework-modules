@@ -69,7 +69,7 @@ Samples of the XML files that the parser can process are in the archive [xml.7z]
 **Output:**
 
    * N/A, 2 
-   * 234387618, 1
+   * 34387618, 1
 
  **Example 2.**
  
