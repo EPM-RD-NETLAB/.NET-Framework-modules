@@ -1,11 +1,9 @@
-## Material Content 
+## Основное содержание материала
 
-- *Stream Architecture.*
-- *Using Streams.*
-- *Stream Adapters, Stream Decorators.*
-- *File and Directory Operations.*
+- *потоковая архитектура .NET и предоставлени ею согласованного программного интерфейса для чтения и записи с применением разнообразных типов ввода-вывода;
+- *классы для манипулирования файлами и каталогами на диске;*
 
-## Books 
+## Источники 
 
 - [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2015.](http://shop.oreilly.com/product/0636920040323.do)
    - *Chapter 15.* Streams and I/O [Code Listings](http://www.albahari.com/nutshell/cs5ch15.aspx)
@@ -14,5 +12,6 @@
 - [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
    - *Chapter 16.* Files and Streams [Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch16.zip)
 
-## Presentations 
-- Streams and I/O (ENG)
+## Презентации 
+- Streams and I/O
+
