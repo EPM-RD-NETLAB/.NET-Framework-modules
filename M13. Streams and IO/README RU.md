@@ -12,7 +12,7 @@
    - *Chapter 28.* Working with I/O 
 - [Programming C# 5.0. Ian Griffiths. O'Reilly Media. 2012.](http://shop.oreilly.com/product/0636920024064.do)
    - *Chapter 16.* Files and Streams [Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch16.zip)
-   - [*Пространство имен System.IO*](https://msdn.microsoft.com/ru-ru/library/system.io(v=vs.110).aspx)
+- [*Пространство имен System.IO*](https://msdn.microsoft.com/ru-ru/library/system.io(v=vs.110).aspx)
 
 ## Презентации 
 - Streams and I/O
