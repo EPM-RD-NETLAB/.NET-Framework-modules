@@ -18,8 +18,8 @@
 - Streams and I/O
 
 ## Примеры
-- [C# 6.0 in a Nutshell. Code Listings](http://www.albahari.com/nutshell/cs5ch15.aspx)
-- [Programming C# 5.0. Ian Griffiths.](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch16.zip)
+- [Code Listings](http://www.albahari.com/nutshell/cs5ch15.aspx)
+- [Download Example Code](https://resources.oreilly.com/examples/0636920024064/blob/master/Ch16.zip)
 
 ## Задачи  
 **Цели:** 
