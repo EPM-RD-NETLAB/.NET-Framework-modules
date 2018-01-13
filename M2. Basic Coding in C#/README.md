@@ -35,8 +35,7 @@
 - *изучить алгоритмы поиска и сортировки.*
 
 1. Даны два целых знаковых четырех байтовых числа и две позиции битов i и j (i<j). Реализовать алгоритм InsertNumber вставки битов с j-ого по i-ый бит одного числа в другое так, чтобы биты второго числа занимали позиции с бита j по бит i (биты нумеруются справа налево). Разработать модульные тесты (NUnit и(!) MS Unit Test) для тестирования метода. (Ниже пояснение к алгоритму).
-![](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M2.%20Basic%20Coding%20in%20C%23/Scheme.png)
-.
+![Схема к алгоритму](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M2.%20Basic%20Coding%20in%20C%23/Scheme.png)
 2. Implement a recursive algorithm for searching the maximum element in unsorted array.
 3. Given an array of integers. Find and return an index n for which the sum of the elements to the left of it is equal to the sum of the elements on the right. If such an index does not return null (or -1).
 4. Two strings include only characters from 'a' to 'z', return a concatenated alphabetized string, excluding duplicate characters.
