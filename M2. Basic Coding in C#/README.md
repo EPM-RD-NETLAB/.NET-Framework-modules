@@ -20,6 +20,7 @@
    - *Chapter 2.* C# Language Basics [Code Listings](http://www.albahari.com/nutshell/ch02.aspx)
 - [Sandcastle - Documentation Compiler for Managed Class Libraries](https://sandcastle.codeplex.com/)
 - [Know Thy Complexities!](http://bigocheatsheet.com/)
+- [Что нужно знать про арифметику с плавающей запятой](https://habrahabr.ru/post/112953/ )
 - [StyleCop](https://github.com/StyleCop)
 
 ## Презентации 
