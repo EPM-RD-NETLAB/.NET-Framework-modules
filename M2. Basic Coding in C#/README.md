@@ -1,13 +1,13 @@
-## Material Content 
-- *Local Variables, var-style variable declaration.*
-- *Naming conventions.*
-- *Statements and Expressions.*
+## Основное содержание материала 
+- *локальные переменные, Local Variables, var-style variable declaration.*
+- *соглашения именования.*
+- *вырадежения и операторы.*
 - *Comments and Whitespace.*
 - *XML-comments. Сreating XML documentation, Sandcastle.*
 - *Intrinsic Data Types. Numeric Types. Numeric conversions. Booleans. Strings and Characters (preview). Object (preview).*
 - *Basic operators.*
 
-## Books & Useful References 
+## Источники
 - [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2013](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
    - *Chapter 4.* Language Essentials
    - *Chapter 5.* Expressions and Operators
@@ -22,17 +22,17 @@
 - [Know Thy Complexities!](http://bigocheatsheet.com/)
 - [StyleCop](https://github.com/StyleCop)
 
-## Presentation 
+## Презентации 
 - Basic Coding in C# (ENG)
 - [Basic Coding in C# (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M2.%20Basic%20Coding%20in%20C%23/Basic%20Coding%20in%20C%23.pptx)
 
-## Samples 
+## Примеры 
 [LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23/Samples/LINQPad%205)
 
-## Tasks  
-**Objective:** 
-- *study to Array and String types;* 
-- *study searching and sorting algorithms.*
+## Задачи  
+**Цели:** 
+- *изучить классы System.Array и System.String;* 
+- *изучить алгоритмы поиска и сортировки.*
 
 1. Two integer signed numbers and two positions of bits i and j (i <j) are given. Implement an algorithm for inserting one number into another so that the second number occupies the position from bit j to bit i (bits are numbered from right to left).
 2. Implement a recursive algorithm for searching the maximum element in unsorted array.
