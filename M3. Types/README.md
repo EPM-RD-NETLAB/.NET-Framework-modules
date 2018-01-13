@@ -50,7 +50,8 @@
    
    Рекомендованный шаблон для тестового метода проверки исключений.
    
-   MethodName_Number_Degree_Precision_ArgumentOutOfRangeException(double number, int degree, double precision, double expected)
+   MethodName_Number_Degree_Precision_ArgumentOutOfRangeException(double number, int degree, double precision, double expected) 
+   
    {   
          Assert.Throws<ArgumentOutOfRangeException>(() => ClassName.MethodName(number, degree, precision));  
    }
