@@ -22,6 +22,8 @@
 - [Arrays Tutorial](https://msdn.microsoft.com/en-us/library/aa288453(v=vs.71).aspx)
 - [Коллекции в .NET Framework Class Library. Массивы](http://rsdn.ru/article/dotnet/collections.xml#E2GAC)
 - [C#: Внутреннее строение инициализаторов массивов](http://habrahabr.ru/post/247047/)
+- [Singleton (Одиночка) или статический класс?](https://habrahabr.ru/post/103681/)
+
 
 ## Презентации 
 - [Types (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Types/Types.pptx)
