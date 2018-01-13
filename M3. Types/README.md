@@ -52,7 +52,7 @@
    
    MethodName_Number_Degree_Precision_ArgumentOutOfRangeException(double number, int degree, double precision, double expected)
    {   
-      Assert.Throws<ArgumentOutOfRangeException>(() => ClassName.MethodName(number, degree, precision));  
+         Assert.Throws<ArgumentOutOfRangeException>(() => ClassName.MethodName(number, degree, precision));  
    }
 2. Реализовать метод "пузырьковой" сортировки для целочисленного массива (не использовать методы класса System.Array) таким образом, чтобы была возможность упорядочить строки матрицы
    - в порядке возрастания(убывания) сумм элементов строк матрицы;
