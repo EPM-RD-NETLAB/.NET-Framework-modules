@@ -31,8 +31,7 @@
 - *изучить паттерн проектирования Strategy (стратегия).*
 
 1. Реализовать метод Ньютона для вычиления корня n-степени (n-натуральное число) из вещественного числа а с заданной точностью. Проверить работу полученного метода (для сранения использовать метод .NET Framework Math.Pow).
-2. Implement the "Bubble Sort" algorithm of integer array (do not usу methods of class System.Array) so that there was an opportunity to order matrix rows:
-   - in order of increasing (decreasing) sums of elements of rows of the matrix; 
-   - in order of increasing (decreasing) the maximum elements of rows of the matrix; 
-   - in order of increasing (decreasing) the minimum elements of rows of the matrix; 
-   - etc. 
+2. Реализовать метод "пузырьковой" сортировки для целочисленного массива (не использовать методы класса System.Array) таким образом, чтобы была возможность упорядочить строки матрицы
+   - в порядке возрастания(убывания) сумм элементов строк матрицы;
+   - в порядке возрастания(убывания) максимальных элементов строк матрицы;
+   - в порядке возрастания(убывания) минимальных элементов строк матрицы.
