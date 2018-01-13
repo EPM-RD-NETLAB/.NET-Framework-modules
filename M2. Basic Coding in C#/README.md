@@ -49,4 +49,6 @@
    - [TestCase(1234126, ExpectedResult = 1234162)]
    - [TestCase(3456432, ExpectedResult = 3462345)]
    - [TestCase(10, ExpectedResult = -1)]           	
-   - [TestCase(20, ExpectedResult = -1)]
+   - [TestCase(20, ExpectedResult = -1)] 
+Добавить к методу FindNextBiggerNumber возможность вернуть время нахождения заданного числа, рассмотрев различные языковые возможности. Разработать модульные тесты (NUnit или MS Unit Test) для тестирования метода.
+
