@@ -1,11 +1,11 @@
-## Material Content 
-- *Value and Reference Types.*
-- *Classes vs Struct. Boxing and Unboxing. Naming conventions.*
-- *Static and instance class.*
-- *Type members - Fields, Constructors, Methods (Property, Indexers, Operators , Event - preview), Nested types. Enum.*
-- *Partial Types and Methods.*
+## Основное содержание материала 
+- *Ссылочные и значимые типы.*
+- *Классы и структуры. Упаковка и распаковка. Соглашения именования.*
+- *Стаические и экземплярные классы.*
+- *Члены типа - поля, констукторы, методы (свойства, индексаторы, перегруженные операции , события - обзор), вложенные типы types. Перечисления.*
+- *Свтичные типы и методы.*
 
-## Books & Useful References 
+## Источники 
 - [C# 6.0 in a Nutshell. Joseph Albahari, Ben Albahari. O'Reilly Media. 2015.](http://shop.oreilly.com/product/0636920040323.do)
    - *Chapter 3.* Creating Types in C# [Code Listings](http://www.albahari.com/nutshell/ch03.aspx)
 - [C# 5.0 Unleashed. Bart De Smet. Sams Publishing. 2013.](https://www.goodreads.com/book/show/16284093-c-5-0-unleashed)
@@ -18,19 +18,19 @@
    - *Chapter 6.* Type and Member Basics
 - [Know Thy Complexities!](http://bigocheatsheet.com/)
 
-## Presentations 
+## Презентации 
 - [Types (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Types/Types.pptx)
 - [Types (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Types/Types%20(RU).pptx)
 
-## Samples 
+## Примеры 
 [LINQPad](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types/Samples/LINQPad%205)
 
-## Tasks  
-**Objective:** 
-- *understanding incapsulation;*
-- *study design pattern Strategy.*
+## Задачи  
+**Цели:** 
+- *понимать принцип инкапсуляции;*
+- *изучить паттерн проектирования Strategy (стратегия).*
 
-1. Implement an Newton algorithm for calculate the root of n-degree (n is natural) from the number a (a is real) with a given accuracy. Check the work of the method (compare the result with the value calculated using the .NET Framework class Math.Pow method).
+1. Реализовать метод Ньютона для вычиления корня n-степени (n-натуральное число) из вещественного числа а с заданной точностью. Проверить работу полученного метода (для сранения использовать метод .NET Framework Math.Pow).
 2. Implement the "Bubble Sort" algorithm of integer array (do not usу methods of class System.Array) so that there was an opportunity to order matrix rows:
    - in order of increasing (decreasing) sums of elements of rows of the matrix; 
    - in order of increasing (decreasing) the maximum elements of rows of the matrix; 
