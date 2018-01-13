@@ -37,6 +37,16 @@
 1. Даны два целых знаковых четырех байтовых числа и две позиции битов i и j (i<j). Реализовать алгоритм InsertNumber вставки битов с j-ого по i-ый бит одного числа в другое так, чтобы биты второго числа занимали позиции с бита j по бит i (биты нумеруются справа налево). Разработать модульные тесты (NUnit и(!) MS Unit Test) для тестирования метода. (Ниже пояснение к алгоритму).
 ![Схема к алгоритму](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/Pictures/Scheme.png)
 2. Реализовать рекурсивный алгоритм поиска максимального элемента в неотсортированном целочисленом массиве.
-3. Given an array of integers. Find and return an index n for which the sum of the elements to the left of it is equal to the sum of the elements on the right. If such an index does not return null (or -1).
-4. Two strings include only characters from 'a' to 'z', return a concatenated alphabetized string, excluding duplicate characters.
-5. Write a method FilterLucky that accepts a list of integers and filters the list to only include the elements that contain the digit 7. For example,  FilterLucky(1,2,3,4,5,6,7,68,69,70,15,17) --> { 7, 70, 17 }.
+3. Реализовать алгоритм поиска в вещественном массиве индекса элемента, для которого сумма элементов слева и сумма элементов спарава равны. Если такого элемента не существует вернуть null (или -1).
+4. Реализовать алгоритм конкатенации двух строк, содержащих только символы латинского алфавита, исключая повторяющиеся символы.
+5. Реализовать метод FindNextBiggerNumber, который принимает положительное целое число и возвращает ближайше наибольшее целое, состоящее из цифр исходного числа, и null (или -1), если такого числа не существует. Разработать модульные тесты (NUnit или MS Unit Test) для тестирования метода. Примерные тест-кейсы
+   - [TestCase(12, ExpectedResult = 21)]
+   - [TestCase(513, ExpectedResult = 531)]
+   - [TestCase(2017, ExpectedResult = 2071)]
+   - [TestCase(414, ExpectedResult = 441)]
+   - [TestCase(144, ExpectedResult = 414)]
+   - [TestCase(1234321, ExpectedResult = 1241233)]
+   - [TestCase(1234126, ExpectedResult = 1234162)]
+   - [TestCase(3456432, ExpectedResult = 3462345)]
+   - [TestCase(10, ExpectedResult = -1)]           	
+   - [TestCase(20, ExpectedResult = -1)]
