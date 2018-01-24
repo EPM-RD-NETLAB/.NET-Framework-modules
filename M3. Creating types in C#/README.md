@@ -26,8 +26,8 @@
 
 
 ## Презентации 
-- [Creating types in C# (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Creating%20types%20in%20C%23/Creating%20types%20in%20C%23.%20ENG.pdf)
-- [Creating types in C# (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Creating%20types%20in%20C%23/Creating%20types%20in%20C%23%20(RU).pdf)
+- [Creating types in C# (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Creating%20types%20in%20C%23/M3.%20Creating%20types%20in%20C%23%20(ENG).pdf)
+- [Creating types in C# (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M3.%20Creating%20types%20in%20C%23/M3.%20Creating%20types%20in%20C%23%20(RU).pdf)
 
 ## Примеры 
 [LINQPad](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Creating%20types%20in%20C%23/Samples/LINQPad%205)
