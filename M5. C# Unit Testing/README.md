@@ -1,10 +1,10 @@
-## Material Content 
-- *Unit testing intro.*
-- *C# Unit Test Best Practices and Guidelines.*
+## Основное содержание материала 
+- *Введение в модульное тестирование.*
+- *Содульное тестирование в C#. Фреймворки. Unit Test Best Practices and Guidelines.*
 - *MS Unit Testing Framework.*
 - *NUnit Framework.*
 
-## Books & Useful References 
+## Источники 
 - [The Art of Unit Testing: with examples in C# Second Edition Edition. Roy Osherove.  Manning Publications Co. 2013.](https://www.manning.com/books/the-art-of-unit-testing-second-edition)
    - *Chapter 1.* [The basics of unit testing](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-1/1)
    - *Chapter 2.* [A first unit test](https://livebook.manning.com/#!/book/the-art-of-unit-testing-second-edition/chapter-2/)
@@ -36,16 +36,16 @@
 - [Автоматизированное тестирование веб-приложения (MS Unit Testing Framework + Selenium WebDriver C#). Часть 3: WebPages — описываем страницы (RU)](http://habrahabr.ru/post/180705/)
 - [Автоматизированное тестирование веб-приложения (MS Unit Testing Framework + Selenium WebDriver C#). Часть 4: Наконец-то пишем тесты (RU)](http://habrahabr.ru/post/181558/)
 
-## Presentation 
+## Презентации 
 - C# Unit Testing.pptx (ENG)
 - [C# Unit Testing.pptx (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M6.%20C%23%20Unit%20Testing/C%23%20Unit%20Testing.pptx)
 
-## Samples 
+## Примеры 
 - [Visual Studio 2015 Samples](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20C%23%20Unit%20Testing/Samples/VS%202015)
 - [Code Samples for the book The Art Of Unit Testing 2nd Edition](https://github.com/royosherove/aout2)
 
-## Tasks  
-**Objective:** 
+## Задачи  
+**Цели:** 
 - *study unit testing.*
 - Develop unit tests (NUnit and (or) MS Unit Test) for [Tasks 1-4 Module 2](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23).
 - Develop unit tests (NUnit and (or) MS Unit Test) for [Tasks 1, 4 Module 3](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types).
