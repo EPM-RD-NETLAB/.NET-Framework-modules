@@ -1,6 +1,6 @@
 ## Основное содержание материала 
 - *Введение в модульное тестирование.*
-- *Содульное тестирование в C#. Фреймворки. Unit Test Best Practices and Guidelines.*
+- *Модульное тестирование в C#. Фреймворки. Лучшие практики и рекомендации.*
 - *MS Unit Testing Framework.*
 - *NUnit Framework.*
 
@@ -46,7 +46,7 @@
 
 ## Задачи  
 **Цели:** 
-- *study unit testing.*
-- Develop unit tests (NUnit and (or) MS Unit Test) for [Tasks 1-4 Module 2](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23).
-- Develop unit tests (NUnit and (or) MS Unit Test) for [Tasks 1, 4 Module 3](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types).
--  Develop unit tests (NUnit and (or) MS Unit Test) for [Tasks 1, 2 Module 4](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details).
+- *изучить подходы модульного тестирования.*
+- Разработать модульные тесты (NUnit и (или) MS Unit Test) для [Tasks 1-4 Module 2](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23).
+- Разработать модульные тесты (NUnit и (или) MS Unit Test) для [Tasks 1, 4 Module 3](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Types).
+-  Разработать модульные тесты (NUnit и (или) MS Unit Test) для [Tasks 1, 2 Module 4](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M5.%20Methods%20in%20details).
