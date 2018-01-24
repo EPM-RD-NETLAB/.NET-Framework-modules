@@ -37,12 +37,9 @@
     - [TestCase(double.PositiveInfinity, ExpectedResult = "0111111111110000000000000000000000000000000000000000000000000000")]
     - [TestCase(-0.0, ExpectedResult = "1000000000000000000000000000000000000000000000000000000000000000")]
     - [TestCase(0.0, ExpectedResult = "0000000000000000000000000000000000000000000000000000000000000000")] и т.д.
-
-
-
-Implement a binary representation of a real double-precision number in IEEE 754 format as the extension method. 
-2. Develop a class that allows performing Greatest Common Divisor (GCD) computations using Euclid's algorithm for two, three, etc. of integers. The methods of class should be able to determine the GCD calculation time (consider three possible oportunities for returning more than one value from the method). Add to the class methods that implement the Stein algorithm (Euclid's binary algorithm) to calculate GCD of two, three, etc. of integers. These methods should be able to determine the GCD calculation time too.
-3. Write two basic extention methods: SayHello and SayGoodbye. 
-   Examples: string name = "Kathy"
-    - name.SayHello() --> "Hello, Kathy!"
-    - name.SayGoodbye() --> "Goodbye, Kathy. See you again soon!"
+2. Разработать класс, позволяющий выполнять вычисления НОД по алгоритму Евклида для двух, трех и т.д. целых чисел (http://en.wikipedia.org/wiki/Euclidean_algorithm , https://habrahabr.ru/post/205106/, https://habrahabr.ru/post/205106/ ). Методы класса помимо вычисления НОД должны предоставлять дополнительную возможность определения значение времени, необходимое для выполнения расчета. Добавить к разработанному классу методы, реализующие алгоритм Стейна (бинарный алгоритм Евклида) для расчета НОД двух, трех и т.д. целых чисел (http://en.wikipedia.org/wiki/Binary_GCD_algorithm, https://habrahabr.ru/post/205106/ ), а также методы,  предоставляющие дополнительную возможность определения значение времени, необходимое для выполнения расчета. Рассмотреть различные возможности реализации методов, возвращающих время вычисления НОД. Разработать модульные тесты.
+3. Реализовать для всех ссылочных и null-able типов, дополнительную возможность опреденления - является ли ссылка null или нет. 
+   Примеры вызова: 
+    - для переменной string name = "Kathy" =>  name.IsNull() --> false
+    - для переменной string name = null    =>  name.IsNull() --> true
+    - для переменной int? i = null         =>  i.IsNull()    --> true и т.д.
