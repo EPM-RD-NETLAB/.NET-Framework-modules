@@ -47,6 +47,6 @@
 ## Задачи  
 **Цели:** 
 - *изучить подходы модульного тестирования.*
-- Разработать модульные тесты (NUnit и (или) MS Unit Test) для [Tasks 1-6 Модуль 2](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23).
-- Разработать модульные тесты (NUnit и (или) MS Unit Test) для [Tasks 1, 2 Модуль 3](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Creating%20types%20in%20C%23).
--  Разработать модульные тесты (NUnit и (или) MS Unit Test) для [Tasks 1-3 Модуль 4](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details).
+- Разработать модульные тесты (NUnit и (или) MS Unit Test) для [Задачи 1-6 Модуль 2](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23).
+- Разработать модульные тесты (NUnit и (или) MS Unit Test) для [Задачи 1, 2 Модуль 3](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Creating%20types%20in%20C%23).
+-  Разработать модульные тесты (NUnit и (или) MS Unit Test) для [Задачи 1-3 Модуль 4](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details).
