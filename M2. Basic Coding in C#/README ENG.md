@@ -24,7 +24,7 @@
 
 ## Presentation 
 - Basic Coding in C# (ENG)
-- [Basic Coding in C# (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M2.%20Basic%20Coding%20in%20C%23/Basic%20Coding%20in%20C%23%207.0.pdf)
+- [Basic Coding in C# (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M2.%20Basic%20Coding%20in%20C%23/M2.%20Basic%20Coding%20in%20C%23%207.0.pdf)
 
 ## Samples 
 [LINQPad 5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23/Samples/LINQPad%205)
