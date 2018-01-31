@@ -15,7 +15,7 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
 ## Development Tools 
 
 - [Visual Studio Community](https://www.visualstudio.com/ru/downloads/?rr=https%3A%2F%2Fwww.google.by%2F)
-- [LINQPad](http://shop.oreilly.com/product/0636920024064.do)(https://www.linqpad.net/)
+- [LINQPad](https://www.linqpad.net/)
 
 ## Modules 
 ### Core modules 
@@ -31,6 +31,7 @@ This repository accompanies [EPAM RD Training](https://training.by/) **DEVELOPIN
  - *Module 10:* [Generics and Collections](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M10.%20Generics%20and%20Collections)
  - *Module 11:* [Introduction to Language Integrated Query (LINQ)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M11.%20Introduction%20to%20Language%20Integrated%20Query%20(LINQ))
  - *Module 12:* [Internal device types in .NET Framework. Resource management](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management)
+ 
 ### Additional modules 
  - *Module 13:* [Streams and I/O](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20I:O)
  - *Module 14:* [XML Technologies](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies)
