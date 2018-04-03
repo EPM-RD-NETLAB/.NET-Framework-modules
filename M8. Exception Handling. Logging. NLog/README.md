@@ -21,8 +21,8 @@
 - [NLog - Tutorial](https://github.com/NLog/NLog/wiki/Tutorial)
    
 ## Presentation 
-- [Exception Handling. Logging. NLog (ENG)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M8.%20Exception%20Handling.%20Logging.%20NLog/Exception%20Handling.%20Logging.%20NLog.pptx)
-- Exception Handling. Logging. NLog (RU)
+- [Exception Handling. Logging. NLog (ENG)]()
+- [Exception Handling. Logging. NLog (RU)](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M8.%20Exception%20Handling.%20Logging.%20NLog/Exception%20Handling.%20Logging.%20NLog.%20Ru.pdf)
 
 ## Samples 
 [LINQPad](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M8.%20Exception%20Handling.%20Logging.%20NLog/Samples/VS)
