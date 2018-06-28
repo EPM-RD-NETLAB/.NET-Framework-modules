@@ -48,6 +48,7 @@
    - [TestCase(-0.008, 3, 0.1, ExpectedResult =-0.2)]
    - [TestCase(0.004241979, 9, 0.00000001, ExpectedResult =0.545)]
    - [a = -0.01, n = 2, accurancy = 0.0001] <- ArgumentException
+   - [a = 0.001, n = -2, accurancy = 0.0001] <- ArgumentException
    - [a = 0.01, n = 2, accurancy = -1] <- ArgumentException	...
    
    Рекомендованный шаблон для тестового метода проверки исключений.
