@@ -1,0 +1,52 @@
+What it ADO.NET
+	Who knows SQL? Who thinks that SQL is bullshit?
+	Any source: db, xml, excel
+	System.Data.dll
+	TODO: show the simplest example
+	ADO net is and abstraction before Data Provider
+
+Data Provider 
+	Core Objects:
+		Connection - DbConnection
+		Command - DbCommand
+		DataReader - DbDataReader
+		DataAdapter - DbDataAdapter 
+	Helpers:
+		Transaction - DbTransaction
+		CommandBuilder - DbCommandBuilder
+		ConnectionStringBuilder - DbConnectionStringBuilder
+		Paramter - DbParameter
+		Exception - DbException
+		Error
+		ClientPermission -  DBDataPermission
+
+Data Providers
+	System.Data.SqlClient
+	System.Data.OleDb
+	System.Data.Odbc
+	System.Data.OracleClient
+	
+Lets return to our example and use our new knowledge
+	
+Connection Strings
+	Use examples
+	
+Connection
+	Importance dispose
+	Don't dispose in finalize!
+	Connection pool (per configuration)	
+	ClearAllPools/ClearPool
+	
+Command
+	Dispose
+	CommandType(Text, StoredProcedure, TableDirect)
+	SQL injection
+	DataReader and DBNull
+		GetName
+		GetValue
+		
+Transactions
+
+StoredProcedure
+	
+DataSet	=> DataAdapter
