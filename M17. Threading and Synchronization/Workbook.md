@@ -1,5 +1,6 @@
 # Отличие между конкурентностью, параллелизмом и многопоточностю (Differences between concurrency, parallelism, and multithreading)
 
+
 ***Materials from book by Riccardo Terrell. Concurrency in .NET. Modern patterns of concurrent and parallel programming. Publishing Hous "Manning", 2018***
 
 ![](https://github.com/AnzhelikaKravchuk/Materials/blob/master/Pictures/011.png)
